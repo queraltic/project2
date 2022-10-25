@@ -1,0 +1,664 @@
+Age,Gender,Country,family_history,treatment,work_interfere,no_employees,remote_work,tech_company,benefits,care_options,wellness_program,seek_help,anonymity,leave,#,"GDP (nominal, 2017)",GDP (abbrev.),GDP growth,Population (2017),GDP per capita,Share of World GDP
+37,Female,United States,No,Yes,Often,6-25,No,Yes,Yes,Not sure,No,Yes,Yes,Somewhat easy,1.0,"$19,485,394,000,000",$19.485 trillion,2.27%,325084756.0,"$59,939",24.08%
+32,Male,Canada,No,No,Rarely,6-25,No,Yes,No,No,No,No,Don't know,Somewhat difficult,10.0,"$1,647,120,175,449",$1.647 trillion,3.05%,36732095.0,"$44,841",2.04%
+31,Male,United Kingdom,Yes,Yes,Often,26-100,No,Yes,No,Yes,No,No,No,Somewhat difficult,6.0,"$2,637,866,340,434",$2.638 trillion,1.79%,66727461.0,"$39,532",3.26%
+31,Male,United States,No,No,Never,100-500,Yes,Yes,Yes,No,Don't know,Don't know,Don't know,Don't know,1.0,"$19,485,394,000,000",$19.485 trillion,2.27%,325084756.0,"$59,939",24.08%
+33,Male,United States,Yes,No,Sometimes,6-25,No,Yes,Yes,Not sure,No,Don't know,Don't know,Don't know,1.0,"$19,485,394,000,000",$19.485 trillion,2.27%,325084756.0,"$59,939",24.08%
+35,Female,United States,Yes,Yes,Sometimes,1-5,Yes,Yes,No,No,No,No,No,Somewhat difficult,1.0,"$19,485,394,000,000",$19.485 trillion,2.27%,325084756.0,"$59,939",24.08%
+42,Female,United States,Yes,Yes,Sometimes,100-500,No,Yes,Yes,Yes,No,No,No,Very difficult,1.0,"$19,485,394,000,000",$19.485 trillion,2.27%,325084756.0,"$59,939",24.08%
+23,Male,Canada,No,No,Never,26-100,No,Yes,Don't know,No,Don't know,Don't know,Don't know,Don't know,10.0,"$1,647,120,175,449",$1.647 trillion,3.05%,36732095.0,"$44,841",2.04%
+31,Male,United States,No,Yes,Sometimes,6-25,Yes,Yes,Don't know,No,No,No,Don't know,Don't know,1.0,"$19,485,394,000,000",$19.485 trillion,2.27%,325084756.0,"$59,939",24.08%
+36,Male,United States,Yes,No,Never,500-1000,No,Yes,Don't know,Not sure,No,Don't know,Don't know,Don't know,1.0,"$19,485,394,000,000",$19.485 trillion,2.27%,325084756.0,"$59,939",24.08%
+27,Male,Canada,No,No,Never,6-25,No,Yes,Don't know,Not sure,Don't know,Don't know,Don't know,Somewhat easy,10.0,"$1,647,120,175,449",$1.647 trillion,3.05%,36732095.0,"$44,841",2.04%
+23,Male,United Kingdom,No,Yes,Sometimes,26-100,Yes,Yes,Don't know,No,Don't know,Don't know,Don't know,Very easy,6.0,"$2,637,866,340,434",$2.638 trillion,1.79%,66727461.0,"$39,532",3.26%
+32,Male,United States,No,Yes,Sometimes,6-25,No,Yes,Yes,Yes,No,Don't know,Don't know,Don't know,1.0,"$19,485,394,000,000",$19.485 trillion,2.27%,325084756.0,"$59,939",24.08%
+29,Male,United States,Yes,Yes,Sometimes,100-500,No,Yes,Yes,Yes,No,No,No,Somewhat difficult,1.0,"$19,485,394,000,000",$19.485 trillion,2.27%,325084756.0,"$59,939",24.08%
+46,Male,United States,No,Yes,Often,26-100,Yes,Yes,Yes,Yes,No,No,Don't know,Don't know,1.0,"$19,485,394,000,000",$19.485 trillion,2.27%,325084756.0,"$59,939",24.08%
+41,Male,United States,No,Yes,Never,More than 1000,No,No,Don't know,No,No,Don't know,Don't know,Don't know,1.0,"$19,485,394,000,000",$19.485 trillion,2.27%,325084756.0,"$59,939",24.08%
+35,Female,United States,Yes,Yes,Rarely,6-25,Yes,Yes,Yes,Yes,Don't know,Don't know,Don't know,Don't know,1.0,"$19,485,394,000,000",$19.485 trillion,2.27%,325084756.0,"$59,939",24.08%
+37,Male,United Kingdom,No,No,Sometimes,6-25,No,Yes,No,No,No,No,Don't know,Very difficult,6.0,"$2,637,866,340,434",$2.638 trillion,1.79%,66727461.0,"$39,532",3.26%
+32,Male,United Kingdom,No,No,Never,6-25,Yes,Yes,No,No,No,No,Don't know,Don't know,6.0,"$2,637,866,340,434",$2.638 trillion,1.79%,66727461.0,"$39,532",3.26%
+31,Male,United States,Yes,No,Rarely,1-5,Yes,Yes,No,Yes,No,No,Don't know,Somewhat difficult,1.0,"$19,485,394,000,000",$19.485 trillion,2.27%,325084756.0,"$59,939",24.08%
+42,Male,United States,Yes,Yes,Sometimes,26-100,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Very easy,1.0,"$19,485,394,000,000",$19.485 trillion,2.27%,325084756.0,"$59,939",24.08%
+27,Male,United States,No,Yes,Rarely,6-25,No,Yes,No,Yes,No,No,Don't know,Very easy,1.0,"$19,485,394,000,000",$19.485 trillion,2.27%,325084756.0,"$59,939",24.08%
+29,Male,Canada,No,No,Rarely,1-5,No,Yes,No,No,No,No,Don't know,Very easy,10.0,"$1,647,120,175,449",$1.647 trillion,3.05%,36732095.0,"$44,841",2.04%
+24,Male,United Kingdom,No,Yes,Sometimes,6-25,No,Yes,No,No,No,No,Don't know,Don't know,6.0,"$2,637,866,340,434",$2.638 trillion,1.79%,66727461.0,"$39,532",3.26%
+35,Male,United States,No,No,,More than 1000,Yes,Yes,Yes,Not sure,Don't know,Yes,Don't know,Somewhat difficult,1.0,"$19,485,394,000,000",$19.485 trillion,2.27%,325084756.0,"$59,939",24.08%
+27,Male,Canada,Yes,Yes,Sometimes,1-5,No,Yes,No,Yes,No,No,Yes,Very difficult,10.0,"$1,647,120,175,449",$1.647 trillion,3.05%,36732095.0,"$44,841",2.04%
+18,Male,Netherlands,No,No,Often,6-25,No,Yes,No,Not sure,No,No,Don't know,Somewhat difficult,18.0,"$830,572,618,850",$831 billion,3.16%,17021347.0,"$48,796",1.03%
+30,Male,United States,No,Yes,Sometimes,26-100,No,Yes,Don't know,No,No,No,Don't know,Don't know,1.0,"$19,485,394,000,000",$19.485 trillion,2.27%,325084756.0,"$59,939",24.08%
+38,Female,United States,Yes,Yes,Sometimes,26-100,No,Yes,Yes,Yes,No,Yes,Yes,Somewhat easy,1.0,"$19,485,394,000,000",$19.485 trillion,2.27%,325084756.0,"$59,939",24.08%
+28,Male,United Kingdom,No,No,,26-100,No,Yes,Don't know,Not sure,No,No,Don't know,Don't know,6.0,"$2,637,866,340,434",$2.638 trillion,1.79%,66727461.0,"$39,532",3.26%
+34,Male,United States,No,No,,6-25,No,Yes,No,No,No,No,Don't know,Don't know,1.0,"$19,485,394,000,000",$19.485 trillion,2.27%,325084756.0,"$59,939",24.08%
+33,Male,United States,No,No,,100-500,Yes,Yes,Don't know,Not sure,Don't know,Don't know,Don't know,Don't know,1.0,"$19,485,394,000,000",$19.485 trillion,2.27%,325084756.0,"$59,939",24.08%
+32,Male,United States,No,No,Never,1-5,Yes,Yes,Don't know,Not sure,No,No,Don't know,Don't know,1.0,"$19,485,394,000,000",$19.485 trillion,2.27%,325084756.0,"$59,939",24.08%
+24,Male,United States,Yes,Yes,Sometimes,26-100,Yes,Yes,Don't know,No,No,No,Don't know,Don't know,1.0,"$19,485,394,000,000",$19.485 trillion,2.27%,325084756.0,"$59,939",24.08%
+26,Male,United States,No,No,,26-100,No,No,No,No,No,No,Yes,Somewhat easy,1.0,"$19,485,394,000,000",$19.485 trillion,2.27%,325084756.0,"$59,939",24.08%
+44,Male,United States,Yes,Yes,Sometimes,More than 1000,No,No,Yes,No,No,Don't know,Don't know,Don't know,1.0,"$19,485,394,000,000",$19.485 trillion,2.27%,325084756.0,"$59,939",24.08%
+27,Male,United Kingdom,No,No,Never,100-500,No,Yes,Yes,Not sure,No,Yes,Don't know,Somewhat easy,6.0,"$2,637,866,340,434",$2.638 trillion,1.79%,66727461.0,"$39,532",3.26%
+40,Male,United States,Yes,No,Sometimes,More than 1000,Yes,Yes,Yes,Yes,Yes,Yes,Don't know,Don't know,1.0,"$19,485,394,000,000",$19.485 trillion,2.27%,325084756.0,"$59,939",24.08%
+23,Female,Australia,Yes,Yes,Often,1-5,Yes,Yes,No,Not sure,No,No,Don't know,Very easy,13.0,"$1,323,421,072,479",$1.323 trillion,1.96%,24584620.0,"$53,831",1.64%
+31,Female,United States,No,No,,26-100,Yes,No,Don't know,No,Don't know,Don't know,Don't know,Don't know,1.0,"$19,485,394,000,000",$19.485 trillion,2.27%,325084756.0,"$59,939",24.08%
+34,Male,United States,No,No,Rarely,1-5,Yes,Yes,No,No,No,No,Don't know,Don't know,1.0,"$19,485,394,000,000",$19.485 trillion,2.27%,325084756.0,"$59,939",24.08%
+38,Male,United Kingdom,No,No,,26-100,No,Yes,No,No,No,Don't know,Yes,Somewhat easy,6.0,"$2,637,866,340,434",$2.638 trillion,1.79%,66727461.0,"$39,532",3.26%
+33,Male,United States,No,No,Never,More than 1000,No,Yes,Don't know,Not sure,Yes,Don't know,Don't know,Don't know,1.0,"$19,485,394,000,000",$19.485 trillion,2.27%,325084756.0,"$59,939",24.08%
+19,Male,United Kingdom,No,No,,1-5,No,Yes,No,Yes,No,No,No,Somewhat difficult,6.0,"$2,637,866,340,434",$2.638 trillion,1.79%,66727461.0,"$39,532",3.26%
+25,Male,United States,No,No,,More than 1000,Yes,Yes,Yes,Yes,Yes,Yes,Don't know,Don't know,1.0,"$19,485,394,000,000",$19.485 trillion,2.27%,325084756.0,"$59,939",24.08%
+31,Male,United States,Yes,No,Sometimes,1-5,Yes,Yes,No,No,No,No,Yes,Somewhat difficult,1.0,"$19,485,394,000,000",$19.485 trillion,2.27%,325084756.0,"$59,939",24.08%
+32,Male,United States,Yes,Yes,Sometimes,26-100,Yes,Yes,No,No,No,No,Don't know,Somewhat difficult,1.0,"$19,485,394,000,000",$19.485 trillion,2.27%,325084756.0,"$59,939",24.08%
+38,Male,United States,Yes,No,Sometimes,100-500,Yes,Yes,Yes,Yes,No,Yes,Don't know,Don't know,1.0,"$19,485,394,000,000",$19.485 trillion,2.27%,325084756.0,"$59,939",24.08%
+23,Male,United Kingdom,No,No,Never,26-100,No,Yes,Yes,Not sure,Yes,Don't know,Don't know,Very easy,6.0,"$2,637,866,340,434",$2.638 trillion,1.79%,66727461.0,"$39,532",3.26%
+33,Male,United States,Yes,No,Never,More than 1000,No,Yes,No,No,No,No,Don't know,Don't know,1.0,"$19,485,394,000,000",$19.485 trillion,2.27%,325084756.0,"$59,939",24.08%
+31,Male,United States,No,No,,26-100,No,Yes,Don't know,Not sure,No,No,Don't know,Don't know,1.0,"$19,485,394,000,000",$19.485 trillion,2.27%,325084756.0,"$59,939",24.08%
+39,Male,United Kingdom,No,Yes,Often,6-25,No,Yes,No,No,No,No,Don't know,Very difficult,6.0,"$2,637,866,340,434",$2.638 trillion,1.79%,66727461.0,"$39,532",3.26%
+31,Male,United States,No,No,Never,500-1000,No,Yes,Yes,Yes,Yes,Yes,Yes,Somewhat easy,1.0,"$19,485,394,000,000",$19.485 trillion,2.27%,325084756.0,"$59,939",24.08%
+34,Male,United States,No,No,,26-100,No,Yes,Don't know,No,No,No,Don't know,Somewhat easy,1.0,"$19,485,394,000,000",$19.485 trillion,2.27%,325084756.0,"$59,939",24.08%
+24,Male,United States,Yes,No,Rarely,26-100,No,Yes,Don't know,Not sure,No,Don't know,Don't know,Somewhat easy,1.0,"$19,485,394,000,000",$19.485 trillion,2.27%,325084756.0,"$59,939",24.08%
+44,Female,United States,No,No,Never,100-500,No,Yes,Yes,Not sure,Don't know,Don't know,Don't know,Don't know,1.0,"$19,485,394,000,000",$19.485 trillion,2.27%,325084756.0,"$59,939",24.08%
+25,Male,United States,Yes,No,,26-100,No,Yes,Don't know,No,Don't know,Don't know,Don't know,Very easy,1.0,"$19,485,394,000,000",$19.485 trillion,2.27%,325084756.0,"$59,939",24.08%
+33,Male,United States,Yes,Yes,Sometimes,26-100,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Somewhat easy,1.0,"$19,485,394,000,000",$19.485 trillion,2.27%,325084756.0,"$59,939",24.08%
+29,Male,United States,No,No,Never,More than 1000,No,Yes,Yes,Not sure,Yes,Don't know,Don't know,Somewhat easy,1.0,"$19,485,394,000,000",$19.485 trillion,2.27%,325084756.0,"$59,939",24.08%
+35,Male,United States,Yes,No,Rarely,6-25,No,Yes,Yes,Not sure,No,No,Yes,Somewhat easy,1.0,"$19,485,394,000,000",$19.485 trillion,2.27%,325084756.0,"$59,939",24.08%
+32,Male,United States,No,Yes,Sometimes,26-100,No,Yes,Yes,No,Yes,Yes,Yes,Somewhat difficult,1.0,"$19,485,394,000,000",$19.485 trillion,2.27%,325084756.0,"$59,939",24.08%
+22,Male,United States,No,Yes,Sometimes,500-1000,No,Yes,Yes,Yes,No,Don't know,Yes,Don't know,1.0,"$19,485,394,000,000",$19.485 trillion,2.27%,325084756.0,"$59,939",24.08%
+28,Male,United States,No,Yes,Sometimes,26-100,No,Yes,Yes,Yes,Yes,Yes,Yes,Somewhat easy,1.0,"$19,485,394,000,000",$19.485 trillion,2.27%,325084756.0,"$59,939",24.08%
+32,Male,United States,No,No,Never,100-500,No,Yes,Yes,Yes,No,Don't know,Don't know,Don't know,1.0,"$19,485,394,000,000",$19.485 trillion,2.27%,325084756.0,"$59,939",24.08%
+26,Male,United Kingdom,No,No,Never,6-25,No,Yes,Don't know,No,No,Don't know,Don't know,Very easy,6.0,"$2,637,866,340,434",$2.638 trillion,1.79%,66727461.0,"$39,532",3.26%
+21,Male,United Kingdom,No,No,Often,1-5,Yes,No,No,Yes,No,No,Yes,Very difficult,6.0,"$2,637,866,340,434",$2.638 trillion,1.79%,66727461.0,"$39,532",3.26%
+27,Male,Canada,No,No,Rarely,6-25,No,No,Yes,Yes,Yes,Yes,Yes,Very easy,10.0,"$1,647,120,175,449",$1.647 trillion,3.05%,36732095.0,"$44,841",2.04%
+18,Male,United States,No,Yes,Rarely,1-5,Yes,Yes,No,No,No,No,Yes,Very easy,1.0,"$19,485,394,000,000",$19.485 trillion,2.27%,325084756.0,"$59,939",24.08%
+35,Male,United States,No,No,,26-100,Yes,Yes,Don't know,Not sure,No,Don't know,Don't know,Don't know,1.0,"$19,485,394,000,000",$19.485 trillion,2.27%,325084756.0,"$59,939",24.08%
+29,Male,United States,No,No,Never,More than 1000,No,Yes,Yes,Yes,No,Yes,Don't know,Don't know,1.0,"$19,485,394,000,000",$19.485 trillion,2.27%,325084756.0,"$59,939",24.08%
+25,Male,United States,No,No,,26-100,Yes,Yes,Don't know,No,No,No,Don't know,Very easy,1.0,"$19,485,394,000,000",$19.485 trillion,2.27%,325084756.0,"$59,939",24.08%
+33,Male,United States,Yes,Yes,Sometimes,6-25,Yes,Yes,Don't know,No,Don't know,Don't know,Yes,Very easy,1.0,"$19,485,394,000,000",$19.485 trillion,2.27%,325084756.0,"$59,939",24.08%
+36,Male,United States,No,No,Often,6-25,No,Yes,Yes,No,No,No,Yes,Don't know,1.0,"$19,485,394,000,000",$19.485 trillion,2.27%,325084756.0,"$59,939",24.08%
+27,Male,Canada,No,Yes,Never,100-500,No,No,Yes,Not sure,No,No,Don't know,Very difficult,10.0,"$1,647,120,175,449",$1.647 trillion,3.05%,36732095.0,"$44,841",2.04%
+27,Male,United States,Yes,No,Never,500-1000,No,Yes,Yes,No,Yes,Yes,Yes,Don't know,1.0,"$19,485,394,000,000",$19.485 trillion,2.27%,325084756.0,"$59,939",24.08%
+27,Male,United Kingdom,No,No,,6-25,No,Yes,No,No,No,No,Don't know,Don't know,6.0,"$2,637,866,340,434",$2.638 trillion,1.79%,66727461.0,"$39,532",3.26%
+31,Male,United Kingdom,Yes,No,Sometimes,6-25,No,Yes,No,No,No,No,Don't know,Somewhat easy,6.0,"$2,637,866,340,434",$2.638 trillion,1.79%,66727461.0,"$39,532",3.26%
+33,Male,United States,Yes,Yes,Sometimes,More than 1000,No,Yes,Yes,Yes,No,No,Don't know,Very easy,1.0,"$19,485,394,000,000",$19.485 trillion,2.27%,325084756.0,"$59,939",24.08%
+27,Male,United States,No,No,Never,26-100,No,Yes,Don't know,Not sure,Don't know,Don't know,Don't know,Don't know,1.0,"$19,485,394,000,000",$19.485 trillion,2.27%,325084756.0,"$59,939",24.08%
+24,Male,Canada,No,Yes,Never,26-100,No,Yes,Don't know,No,No,No,Don't know,Don't know,10.0,"$1,647,120,175,449",$1.647 trillion,3.05%,36732095.0,"$44,841",2.04%
+28,Male,United Kingdom,No,No,Never,6-25,No,Yes,Don't know,No,No,No,Yes,Very easy,6.0,"$2,637,866,340,434",$2.638 trillion,1.79%,66727461.0,"$39,532",3.26%
+39,Male,United States,No,Yes,Often,More than 1000,No,Yes,Yes,Not sure,No,No,Don't know,Somewhat easy,1.0,"$19,485,394,000,000",$19.485 trillion,2.27%,325084756.0,"$59,939",24.08%
+29,Female,United States,No,No,,6-25,No,Yes,Don't know,No,No,Don't know,Don't know,Somewhat easy,1.0,"$19,485,394,000,000",$19.485 trillion,2.27%,325084756.0,"$59,939",24.08%
+38,Male,United States,Yes,Yes,Sometimes,100-500,No,Yes,Don't know,No,Don't know,Don't know,Don't know,Don't know,1.0,"$19,485,394,000,000",$19.485 trillion,2.27%,325084756.0,"$59,939",24.08%
+37,Male,United Kingdom,No,Yes,Sometimes,More than 1000,No,No,No,Yes,Yes,Yes,Yes,Very difficult,6.0,"$2,637,866,340,434",$2.638 trillion,1.79%,66727461.0,"$39,532",3.26%
+-29,Male,United States,No,No,,More than 1000,Yes,No,Yes,No,Don't know,Yes,Don't know,Don't know,1.0,"$19,485,394,000,000",$19.485 trillion,2.27%,325084756.0,"$59,939",24.08%
+30,Female,United States,Yes,No,,More than 1000,Yes,Yes,Don't know,Not sure,No,Don't know,Don't know,Don't know,1.0,"$19,485,394,000,000",$19.485 trillion,2.27%,325084756.0,"$59,939",24.08%
+37,Male,United States,Yes,Yes,Rarely,100-500,No,No,Yes,Yes,Yes,Yes,Don't know,Somewhat easy,1.0,"$19,485,394,000,000",$19.485 trillion,2.27%,325084756.0,"$59,939",24.08%
+23,Male,United States,No,No,Sometimes,6-25,No,No,No,No,No,No,No,Somewhat easy,1.0,"$19,485,394,000,000",$19.485 trillion,2.27%,325084756.0,"$59,939",24.08%
+29,Female,United States,No,No,,100-500,Yes,Yes,Don't know,Not sure,No,Don't know,Don't know,Don't know,1.0,"$19,485,394,000,000",$19.485 trillion,2.27%,325084756.0,"$59,939",24.08%
+19,Male,Canada,Yes,No,,1-5,Yes,Yes,Don't know,Not sure,No,Yes,Yes,Somewhat easy,10.0,"$1,647,120,175,449",$1.647 trillion,3.05%,36732095.0,"$44,841",2.04%
+36,Male,United States,No,No,Never,6-25,No,Yes,Don't know,Not sure,Don't know,Don't know,Don't know,Don't know,1.0,"$19,485,394,000,000",$19.485 trillion,2.27%,325084756.0,"$59,939",24.08%
+37,Male,United Kingdom,Yes,Yes,Rarely,More than 1000,No,No,Yes,Yes,Yes,Yes,Yes,Somewhat difficult,6.0,"$2,637,866,340,434",$2.638 trillion,1.79%,66727461.0,"$39,532",3.26%
+25,Male,United States,Yes,Yes,Sometimes,26-100,No,No,Don't know,No,No,Don't know,Don't know,Somewhat difficult,1.0,"$19,485,394,000,000",$19.485 trillion,2.27%,325084756.0,"$59,939",24.08%
+27,Male,United States,Yes,Yes,Sometimes,More than 1000,No,Yes,Don't know,No,No,Don't know,Don't know,Don't know,1.0,"$19,485,394,000,000",$19.485 trillion,2.27%,325084756.0,"$59,939",24.08%
+25,Male,United States,Yes,Yes,Sometimes,26-100,No,Yes,Don't know,Not sure,No,No,Don't know,Very easy,1.0,"$19,485,394,000,000",$19.485 trillion,2.27%,325084756.0,"$59,939",24.08%
+36,Male,United Kingdom,No,Yes,Sometimes,More than 1000,No,No,Yes,Yes,Yes,Yes,Yes,Somewhat easy,6.0,"$2,637,866,340,434",$2.638 trillion,1.79%,66727461.0,"$39,532",3.26%
+34,Male,United States,No,No,Never,26-100,No,Yes,No,No,No,No,Don't know,Very easy,1.0,"$19,485,394,000,000",$19.485 trillion,2.27%,325084756.0,"$59,939",24.08%
+24,Male,United Kingdom,No,No,Rarely,100-500,No,Yes,Don't know,Not sure,Yes,Don't know,Don't know,Very easy,6.0,"$2,637,866,340,434",$2.638 trillion,1.79%,66727461.0,"$39,532",3.26%
+26,Male,United Kingdom,No,Yes,Sometimes,More than 1000,No,Yes,Yes,Yes,Don't know,Don't know,Yes,Somewhat easy,6.0,"$2,637,866,340,434",$2.638 trillion,1.79%,66727461.0,"$39,532",3.26%
+31,Male,United Kingdom,No,Yes,Often,6-25,No,Yes,Don't know,No,No,No,Don't know,Don't know,6.0,"$2,637,866,340,434",$2.638 trillion,1.79%,66727461.0,"$39,532",3.26%
+23,Female,United States,No,No,,6-25,No,Yes,Don't know,No,No,Don't know,Don't know,Don't know,1.0,"$19,485,394,000,000",$19.485 trillion,2.27%,325084756.0,"$59,939",24.08%
+34,Female,Canada,Yes,Yes,Sometimes,More than 1000,No,No,Yes,Yes,Yes,No,Don't know,Somewhat easy,10.0,"$1,647,120,175,449",$1.647 trillion,3.05%,36732095.0,"$44,841",2.04%
+28,Male,United Kingdom,No,No,,100-500,No,No,No,Not sure,No,Yes,Yes,Somewhat easy,6.0,"$2,637,866,340,434",$2.638 trillion,1.79%,66727461.0,"$39,532",3.26%
+32,Female,United States,No,Yes,Often,6-25,Yes,Yes,Yes,Not sure,Don't know,Don't know,Yes,Very easy,1.0,"$19,485,394,000,000",$19.485 trillion,2.27%,325084756.0,"$59,939",24.08%
+33,Male,United States,No,No,,6-25,Yes,Yes,Don't know,No,No,No,Don't know,Very easy,1.0,"$19,485,394,000,000",$19.485 trillion,2.27%,325084756.0,"$59,939",24.08%
+28,Female,United Kingdom,No,No,Never,26-100,No,Yes,Don't know,No,No,Don't know,Yes,Somewhat easy,6.0,"$2,637,866,340,434",$2.638 trillion,1.79%,66727461.0,"$39,532",3.26%
+43,Male,United States,Yes,Yes,Often,More than 1000,Yes,Yes,Yes,Not sure,No,Don't know,Don't know,Very difficult,1.0,"$19,485,394,000,000",$19.485 trillion,2.27%,325084756.0,"$59,939",24.08%
+24,Male,United Kingdom,No,No,Sometimes,6-25,No,Yes,Don't know,No,No,Don't know,Don't know,Somewhat easy,6.0,"$2,637,866,340,434",$2.638 trillion,1.79%,66727461.0,"$39,532",3.26%
+35,Female,United States,Yes,Yes,Never,More than 1000,No,Yes,Yes,Not sure,Don't know,No,Yes,Somewhat easy,1.0,"$19,485,394,000,000",$19.485 trillion,2.27%,325084756.0,"$59,939",24.08%
+28,Male,United States,Yes,Yes,Sometimes,26-100,No,Yes,Yes,No,No,No,Don't know,Somewhat easy,1.0,"$19,485,394,000,000",$19.485 trillion,2.27%,325084756.0,"$59,939",24.08%
+35,Male,United States,No,Yes,Rarely,6-25,No,Yes,No,No,No,No,Yes,Don't know,1.0,"$19,485,394,000,000",$19.485 trillion,2.27%,325084756.0,"$59,939",24.08%
+35,Female,United States,No,No,Never,500-1000,Yes,Yes,Don't know,Not sure,No,No,Don't know,Don't know,1.0,"$19,485,394,000,000",$19.485 trillion,2.27%,325084756.0,"$59,939",24.08%
+26,Male,United States,No,No,Rarely,More than 1000,No,Yes,Yes,No,No,No,Yes,Somewhat easy,1.0,"$19,485,394,000,000",$19.485 trillion,2.27%,325084756.0,"$59,939",24.08%
+27,Male,United States,Yes,No,,6-25,Yes,Yes,Yes,Yes,No,No,Don't know,Somewhat easy,1.0,"$19,485,394,000,000",$19.485 trillion,2.27%,325084756.0,"$59,939",24.08%
+28,Male,United Kingdom,Yes,Yes,Sometimes,More than 1000,No,Yes,Don't know,No,No,No,Don't know,Don't know,6.0,"$2,637,866,340,434",$2.638 trillion,1.79%,66727461.0,"$39,532",3.26%
+27,Female,United States,Yes,Yes,Sometimes,26-100,No,Yes,Yes,No,No,No,Don't know,Very easy,1.0,"$19,485,394,000,000",$19.485 trillion,2.27%,325084756.0,"$59,939",24.08%
+37,Male,Ireland,No,No,Sometimes,1-5,No,Yes,No,Yes,No,No,Don't know,Very difficult,34.0,"$331,430,014,003",$331 billion,7.80%,4753279.0,"$69,727",0.41%
+32,Male,United Kingdom,Yes,Yes,Sometimes,100-500,Yes,Yes,Don't know,Not sure,No,No,Don't know,Somewhat difficult,6.0,"$2,637,866,340,434",$2.638 trillion,1.79%,66727461.0,"$39,532",3.26%
+21,Male,Canada,No,Yes,Sometimes,6-25,Yes,Yes,No,Yes,No,No,Don't know,Somewhat difficult,10.0,"$1,647,120,175,449",$1.647 trillion,3.05%,36732095.0,"$44,841",2.04%
+40,Female,United States,No,No,,26-100,No,Yes,Yes,Yes,Yes,Yes,Yes,Somewhat easy,1.0,"$19,485,394,000,000",$19.485 trillion,2.27%,325084756.0,"$59,939",24.08%
+37,Male,United Kingdom,Yes,No,Sometimes,26-100,No,No,No,No,No,No,Don't know,Don't know,6.0,"$2,637,866,340,434",$2.638 trillion,1.79%,66727461.0,"$39,532",3.26%
+26,Male,United Kingdom,No,Yes,Often,1-5,Yes,Yes,No,No,No,No,Don't know,Don't know,6.0,"$2,637,866,340,434",$2.638 trillion,1.79%,66727461.0,"$39,532",3.26%
+30,Male,Germany,No,Yes,Often,6-25,Yes,Yes,Yes,Yes,No,No,Yes,Very difficult,4.0,"$3,693,204,332,230",$3.693 trillion,2.22%,82658409.0,"$44,680",4.56%
+33,Male,United Kingdom,No,No,,26-100,No,Yes,Don't know,No,No,No,Don't know,Don't know,6.0,"$2,637,866,340,434",$2.638 trillion,1.79%,66727461.0,"$39,532",3.26%
+28,Male,United States,No,Yes,Sometimes,More than 1000,No,Yes,No,Yes,No,No,Yes,Very difficult,1.0,"$19,485,394,000,000",$19.485 trillion,2.27%,325084756.0,"$59,939",24.08%
+23,Male,United States,No,No,Never,26-100,No,Yes,Don't know,Not sure,Don't know,Don't know,Don't know,Don't know,1.0,"$19,485,394,000,000",$19.485 trillion,2.27%,325084756.0,"$59,939",24.08%
+34,Male,Australia,No,No,Sometimes,1-5,Yes,Yes,Don't know,Not sure,Yes,Yes,Don't know,Somewhat difficult,13.0,"$1,323,421,072,479",$1.323 trillion,1.96%,24584620.0,"$53,831",1.64%
+24,Male,United States,No,No,Never,6-25,No,Yes,Yes,Not sure,No,Don't know,Don't know,Very easy,1.0,"$19,485,394,000,000",$19.485 trillion,2.27%,325084756.0,"$59,939",24.08%
+36,Male,United States,No,Yes,Sometimes,26-100,No,Yes,Yes,No,No,Yes,Don't know,Don't know,1.0,"$19,485,394,000,000",$19.485 trillion,2.27%,325084756.0,"$59,939",24.08%
+41,Male,United States,No,Yes,Rarely,500-1000,Yes,Yes,Yes,Yes,No,Don't know,Don't know,Don't know,1.0,"$19,485,394,000,000",$19.485 trillion,2.27%,325084756.0,"$59,939",24.08%
+38,Male,United Kingdom,No,Yes,Sometimes,More than 1000,No,No,Don't know,Not sure,Don't know,Don't know,Don't know,Very difficult,6.0,"$2,637,866,340,434",$2.638 trillion,1.79%,66727461.0,"$39,532",3.26%
+38,Male,United States,No,No,Sometimes,26-100,Yes,Yes,Don't know,Not sure,No,Don't know,Don't know,Don't know,1.0,"$19,485,394,000,000",$19.485 trillion,2.27%,325084756.0,"$59,939",24.08%
+25,Male,United Kingdom,No,No,Never,26-100,No,Yes,No,No,No,No,Don't know,Somewhat difficult,6.0,"$2,637,866,340,434",$2.638 trillion,1.79%,66727461.0,"$39,532",3.26%
+37,Male,Canada,Yes,Yes,Often,26-100,No,Yes,Yes,Yes,No,Don't know,Don't know,Don't know,10.0,"$1,647,120,175,449",$1.647 trillion,3.05%,36732095.0,"$44,841",2.04%
+34,Male,United Kingdom,Yes,No,,6-25,No,Yes,No,No,No,No,Yes,Somewhat difficult,6.0,"$2,637,866,340,434",$2.638 trillion,1.79%,66727461.0,"$39,532",3.26%
+28,Female,Canada,Yes,Yes,Sometimes,6-25,No,No,Yes,Yes,Yes,Yes,Yes,Don't know,10.0,"$1,647,120,175,449",$1.647 trillion,3.05%,36732095.0,"$44,841",2.04%
+27,Male,United States,No,No,Never,More than 1000,Yes,Yes,Yes,Yes,Don't know,Don't know,Yes,Somewhat easy,1.0,"$19,485,394,000,000",$19.485 trillion,2.27%,325084756.0,"$59,939",24.08%
+21,Male,United States,No,Yes,Often,6-25,No,No,Don't know,No,No,Don't know,Don't know,Don't know,1.0,"$19,485,394,000,000",$19.485 trillion,2.27%,325084756.0,"$59,939",24.08%
+29,Male,United Kingdom,No,No,,6-25,No,No,No,No,No,No,Yes,Very easy,6.0,"$2,637,866,340,434",$2.638 trillion,1.79%,66727461.0,"$39,532",3.26%
+23,Male,United States,Yes,Yes,Sometimes,26-100,Yes,No,Don't know,No,No,Don't know,Yes,Somewhat easy,1.0,"$19,485,394,000,000",$19.485 trillion,2.27%,325084756.0,"$59,939",24.08%
+28,Male,United States,Yes,No,,100-500,No,Yes,Yes,No,No,Don't know,Yes,Somewhat easy,1.0,"$19,485,394,000,000",$19.485 trillion,2.27%,325084756.0,"$59,939",24.08%
+27,Male,United Kingdom,No,No,,100-500,No,No,Don't know,Not sure,Don't know,Don't know,No,Very easy,6.0,"$2,637,866,340,434",$2.638 trillion,1.79%,66727461.0,"$39,532",3.26%
+24,Male,United States,No,No,Sometimes,6-25,No,Yes,Don't know,No,Don't know,Don't know,Don't know,Don't know,1.0,"$19,485,394,000,000",$19.485 trillion,2.27%,325084756.0,"$59,939",24.08%
+29,Male,Canada,No,No,Often,6-25,No,Yes,No,No,No,No,Don't know,Somewhat difficult,10.0,"$1,647,120,175,449",$1.647 trillion,3.05%,36732095.0,"$44,841",2.04%
+23,Female,United Kingdom,No,Yes,Sometimes,6-25,No,Yes,Don't know,Not sure,Don't know,Don't know,Don't know,Don't know,6.0,"$2,637,866,340,434",$2.638 trillion,1.79%,66727461.0,"$39,532",3.26%
+42,Male,United States,No,No,Never,6-25,Yes,Yes,No,Yes,No,Yes,Don't know,Somewhat easy,1.0,"$19,485,394,000,000",$19.485 trillion,2.27%,325084756.0,"$59,939",24.08%
+24,Male,United Kingdom,No,No,,1-5,No,Yes,No,No,No,No,Don't know,Don't know,6.0,"$2,637,866,340,434",$2.638 trillion,1.79%,66727461.0,"$39,532",3.26%
+25,Male,Australia,Yes,Yes,Often,6-25,No,Yes,No,Yes,No,No,No,Very difficult,13.0,"$1,323,421,072,479",$1.323 trillion,1.96%,24584620.0,"$53,831",1.64%
+27,Female,United States,No,Yes,Rarely,6-25,No,Yes,Yes,No,No,No,Yes,Don't know,1.0,"$19,485,394,000,000",$19.485 trillion,2.27%,325084756.0,"$59,939",24.08%
+27,Male,Canada,No,No,Sometimes,6-25,Yes,Yes,No,Yes,No,No,No,Very difficult,10.0,"$1,647,120,175,449",$1.647 trillion,3.05%,36732095.0,"$44,841",2.04%
+30,Male,United States,No,Yes,Sometimes,100-500,Yes,Yes,Yes,Yes,No,Yes,Yes,Don't know,1.0,"$19,485,394,000,000",$19.485 trillion,2.27%,325084756.0,"$59,939",24.08%
+43,Male,Canada,No,No,,6-25,Yes,Yes,No,Not sure,No,No,Don't know,Somewhat easy,10.0,"$1,647,120,175,449",$1.647 trillion,3.05%,36732095.0,"$44,841",2.04%
+41,Male,United States,No,Yes,Sometimes,26-100,Yes,Yes,Yes,Yes,Don't know,No,Don't know,Very easy,1.0,"$19,485,394,000,000",$19.485 trillion,2.27%,325084756.0,"$59,939",24.08%
+32,Male,United Kingdom,Yes,Yes,Sometimes,1-5,Yes,Yes,Don't know,Not sure,Don't know,Don't know,Don't know,Very easy,6.0,"$2,637,866,340,434",$2.638 trillion,1.79%,66727461.0,"$39,532",3.26%
+37,Female,United States,Yes,Yes,Often,26-100,No,Yes,Yes,Yes,No,No,Yes,Don't know,1.0,"$19,485,394,000,000",$19.485 trillion,2.27%,325084756.0,"$59,939",24.08%
+32,Male,United States,No,No,Never,6-25,Yes,Yes,No,No,No,No,Don't know,Very easy,1.0,"$19,485,394,000,000",$19.485 trillion,2.27%,325084756.0,"$59,939",24.08%
+30,Male,Ireland,No,No,Sometimes,1-5,Yes,Yes,No,No,No,No,Don't know,Somewhat difficult,34.0,"$331,430,014,003",$331 billion,7.80%,4753279.0,"$69,727",0.41%
+30,Male,United States,No,No,,More than 1000,No,Yes,Yes,Yes,Yes,Yes,Yes,Very easy,1.0,"$19,485,394,000,000",$19.485 trillion,2.27%,325084756.0,"$59,939",24.08%
+38,Male,United States,No,Yes,Rarely,26-100,Yes,Yes,Yes,No,No,No,Don't know,Don't know,1.0,"$19,485,394,000,000",$19.485 trillion,2.27%,325084756.0,"$59,939",24.08%
+33,Male,Canada,No,No,,100-500,No,Yes,Yes,No,Yes,Yes,Yes,Don't know,10.0,"$1,647,120,175,449",$1.647 trillion,3.05%,36732095.0,"$44,841",2.04%
+23,Male,United States,Yes,No,Sometimes,100-500,No,Yes,Don't know,No,No,Don't know,Don't know,Don't know,1.0,"$19,485,394,000,000",$19.485 trillion,2.27%,325084756.0,"$59,939",24.08%
+22,Male,Australia,Yes,Yes,Sometimes,6-25,Yes,Yes,Don't know,Not sure,Yes,Yes,Don't know,Somewhat easy,13.0,"$1,323,421,072,479",$1.323 trillion,1.96%,24584620.0,"$53,831",1.64%
+25,Male,Canada,No,No,,100-500,No,No,Don't know,Not sure,No,No,Don't know,Don't know,10.0,"$1,647,120,175,449",$1.647 trillion,3.05%,36732095.0,"$44,841",2.04%
+27,Male,United Kingdom,Yes,Yes,Sometimes,6-25,No,Yes,No,No,No,No,Yes,Somewhat easy,6.0,"$2,637,866,340,434",$2.638 trillion,1.79%,66727461.0,"$39,532",3.26%
+26,Female,United States,Yes,Yes,Rarely,More than 1000,No,Yes,Yes,Not sure,Don't know,Don't know,Don't know,Don't know,1.0,"$19,485,394,000,000",$19.485 trillion,2.27%,325084756.0,"$59,939",24.08%
+18,Male,United States,No,No,Never,26-100,No,Yes,Don't know,Not sure,Don't know,Don't know,Don't know,Very easy,1.0,"$19,485,394,000,000",$19.485 trillion,2.27%,325084756.0,"$59,939",24.08%
+38,Female,United States,No,Yes,Sometimes,1-5,No,Yes,No,Yes,No,No,Don't know,Don't know,1.0,"$19,485,394,000,000",$19.485 trillion,2.27%,325084756.0,"$59,939",24.08%
+26,Female,United States,Yes,Yes,Rarely,More than 1000,Yes,Yes,Yes,Yes,Yes,Don't know,Don't know,Somewhat easy,1.0,"$19,485,394,000,000",$19.485 trillion,2.27%,325084756.0,"$59,939",24.08%
+32,Male,United States,No,No,Never,More than 1000,No,Yes,Yes,No,No,Don't know,Don't know,Don't know,1.0,"$19,485,394,000,000",$19.485 trillion,2.27%,325084756.0,"$59,939",24.08%
+56,Male,United States,No,Yes,Never,More than 1000,No,Yes,Yes,Not sure,Don't know,Don't know,Don't know,Don't know,1.0,"$19,485,394,000,000",$19.485 trillion,2.27%,325084756.0,"$59,939",24.08%
+24,Female,United States,No,No,,500-1000,No,Yes,Don't know,Not sure,No,Don't know,Don't know,Don't know,1.0,"$19,485,394,000,000",$19.485 trillion,2.27%,325084756.0,"$59,939",24.08%
+33,Male,United States,Yes,Yes,Sometimes,More than 1000,No,Yes,Yes,No,Yes,Yes,Don't know,Don't know,1.0,"$19,485,394,000,000",$19.485 trillion,2.27%,325084756.0,"$59,939",24.08%
+23,Female,United States,No,Yes,Sometimes,More than 1000,No,Yes,Yes,Yes,Yes,Yes,Don't know,Don't know,1.0,"$19,485,394,000,000",$19.485 trillion,2.27%,325084756.0,"$59,939",24.08%
+26,Male,United States,No,No,Rarely,100-500,No,Yes,Yes,Not sure,No,Don't know,Don't know,Don't know,1.0,"$19,485,394,000,000",$19.485 trillion,2.27%,325084756.0,"$59,939",24.08%
+25,Male,United States,No,No,,26-100,Yes,Yes,Don't know,Not sure,No,Don't know,Don't know,Don't know,1.0,"$19,485,394,000,000",$19.485 trillion,2.27%,325084756.0,"$59,939",24.08%
+27,Male,United States,No,No,Sometimes,100-500,No,Yes,Yes,Not sure,Yes,Yes,Don't know,Don't know,1.0,"$19,485,394,000,000",$19.485 trillion,2.27%,325084756.0,"$59,939",24.08%
+25,Male,Canada,No,Yes,Often,6-25,Yes,No,Don't know,No,No,Don't know,Don't know,Somewhat difficult,10.0,"$1,647,120,175,449",$1.647 trillion,3.05%,36732095.0,"$44,841",2.04%
+36,Male,United States,No,Yes,Never,1-5,No,Yes,No,Yes,No,No,Don't know,Somewhat easy,1.0,"$19,485,394,000,000",$19.485 trillion,2.27%,325084756.0,"$59,939",24.08%
+26,Male,United States,Yes,Yes,Sometimes,More than 1000,No,Yes,Yes,Not sure,No,Don't know,Don't know,Don't know,1.0,"$19,485,394,000,000",$19.485 trillion,2.27%,325084756.0,"$59,939",24.08%
+27,Male,United States,Yes,No,,More than 1000,No,Yes,Don't know,No,Don't know,Don't know,Don't know,Very easy,1.0,"$19,485,394,000,000",$19.485 trillion,2.27%,325084756.0,"$59,939",24.08%
+25,Male,United States,No,No,Never,More than 1000,No,No,Yes,Yes,Yes,Yes,Yes,Very easy,1.0,"$19,485,394,000,000",$19.485 trillion,2.27%,325084756.0,"$59,939",24.08%
+22,Female,United States,Yes,Yes,Often,More than 1000,No,Yes,Yes,Yes,Yes,Yes,Yes,Somewhat easy,1.0,"$19,485,394,000,000",$19.485 trillion,2.27%,325084756.0,"$59,939",24.08%
+41,Male,United States,Yes,Yes,Rarely,100-500,Yes,Yes,Yes,Yes,Don't know,Yes,Yes,Somewhat easy,1.0,"$19,485,394,000,000",$19.485 trillion,2.27%,325084756.0,"$59,939",24.08%
+29,Male,United States,No,Yes,Sometimes,More than 1000,No,Yes,Yes,No,No,Don't know,Don't know,Don't know,1.0,"$19,485,394,000,000",$19.485 trillion,2.27%,325084756.0,"$59,939",24.08%
+32,Male,United States,No,No,Never,500-1000,No,Yes,Yes,Not sure,Don't know,Yes,Yes,Somewhat easy,1.0,"$19,485,394,000,000",$19.485 trillion,2.27%,325084756.0,"$59,939",24.08%
+25,Male,United States,No,Yes,Rarely,6-25,No,Yes,Yes,No,Don't know,No,Don't know,Don't know,1.0,"$19,485,394,000,000",$19.485 trillion,2.27%,325084756.0,"$59,939",24.08%
+30,Female,United States,No,No,Never,More than 1000,No,Yes,Yes,Yes,Yes,Yes,Yes,Somewhat easy,1.0,"$19,485,394,000,000",$19.485 trillion,2.27%,325084756.0,"$59,939",24.08%
+25,Male,United States,Yes,Yes,Sometimes,More than 1000,No,Yes,Don't know,Not sure,Don't know,Yes,Don't know,Don't know,1.0,"$19,485,394,000,000",$19.485 trillion,2.27%,325084756.0,"$59,939",24.08%
+30,Male,United States,No,No,Never,1-5,Yes,Yes,No,Yes,No,No,Don't know,Don't know,1.0,"$19,485,394,000,000",$19.485 trillion,2.27%,325084756.0,"$59,939",24.08%
+24,Male,United States,No,No,,26-100,No,Yes,Yes,Not sure,Yes,Yes,Yes,Very easy,1.0,"$19,485,394,000,000",$19.485 trillion,2.27%,325084756.0,"$59,939",24.08%
+25,Male,Canada,Yes,Yes,Sometimes,More than 1000,No,Yes,Yes,Yes,No,Don't know,Don't know,Don't know,10.0,"$1,647,120,175,449",$1.647 trillion,3.05%,36732095.0,"$44,841",2.04%
+31,Male,United States,No,No,,100-500,No,No,Don't know,No,No,No,Yes,Somewhat easy,1.0,"$19,485,394,000,000",$19.485 trillion,2.27%,325084756.0,"$59,939",24.08%
+45,Male,Ireland,No,Yes,Often,1-5,No,Yes,No,No,No,No,Don't know,Very difficult,34.0,"$331,430,014,003",$331 billion,7.80%,4753279.0,"$69,727",0.41%
+30,Male,United Kingdom,No,Yes,Sometimes,26-100,No,Yes,Don't know,No,No,Don't know,Don't know,Don't know,6.0,"$2,637,866,340,434",$2.638 trillion,1.79%,66727461.0,"$39,532",3.26%
+24,Male,United States,No,No,,More than 1000,No,Yes,Yes,Yes,Don't know,Don't know,Yes,Don't know,1.0,"$19,485,394,000,000",$19.485 trillion,2.27%,325084756.0,"$59,939",24.08%
+35,Male,United States,No,No,,26-100,No,No,Don't know,Not sure,No,Don't know,Don't know,Don't know,1.0,"$19,485,394,000,000",$19.485 trillion,2.27%,325084756.0,"$59,939",24.08%
+27,Male,United States,No,No,Sometimes,More than 1000,No,Yes,Don't know,Not sure,Don't know,Don't know,Don't know,Very easy,1.0,"$19,485,394,000,000",$19.485 trillion,2.27%,325084756.0,"$59,939",24.08%
+36,Male,United States,No,No,,More than 1000,No,Yes,Don't know,Not sure,Don't know,Don't know,Don't know,Don't know,1.0,"$19,485,394,000,000",$19.485 trillion,2.27%,325084756.0,"$59,939",24.08%
+33,Male,United Kingdom,No,No,Rarely,1-5,Yes,Yes,Don't know,No,No,No,Don't know,Don't know,6.0,"$2,637,866,340,434",$2.638 trillion,1.79%,66727461.0,"$39,532",3.26%
+23,Male,United States,Yes,Yes,Sometimes,100-500,No,No,Don't know,No,No,No,Don't know,Don't know,1.0,"$19,485,394,000,000",$19.485 trillion,2.27%,325084756.0,"$59,939",24.08%
+22,Male,United States,No,No,Sometimes,More than 1000,No,Yes,Don't know,No,Don't know,Don't know,Don't know,Don't know,1.0,"$19,485,394,000,000",$19.485 trillion,2.27%,325084756.0,"$59,939",24.08%
+27,Male,United States,No,Yes,Sometimes,More than 1000,No,Yes,Yes,Yes,Yes,Yes,Yes,Don't know,1.0,"$19,485,394,000,000",$19.485 trillion,2.27%,325084756.0,"$59,939",24.08%
+30,Male,United Kingdom,No,No,Never,6-25,No,Yes,No,No,No,Don't know,Don't know,Very easy,6.0,"$2,637,866,340,434",$2.638 trillion,1.79%,66727461.0,"$39,532",3.26%
+31,Male,United States,No,Yes,Sometimes,500-1000,No,No,No,Yes,No,Don't know,Yes,Don't know,1.0,"$19,485,394,000,000",$19.485 trillion,2.27%,325084756.0,"$59,939",24.08%
+34,Male,United States,No,Yes,Sometimes,100-500,Yes,Yes,No,No,No,No,Don't know,Somewhat easy,1.0,"$19,485,394,000,000",$19.485 trillion,2.27%,325084756.0,"$59,939",24.08%
+32,Male,United States,Yes,Yes,Rarely,More than 1000,No,No,Yes,Yes,Yes,Yes,Yes,Don't know,1.0,"$19,485,394,000,000",$19.485 trillion,2.27%,325084756.0,"$59,939",24.08%
+329,Male,United States,No,Yes,Often,6-25,Yes,Yes,Yes,Yes,No,No,Don't know,Don't know,1.0,"$19,485,394,000,000",$19.485 trillion,2.27%,325084756.0,"$59,939",24.08%
+28,Male,United States,Yes,Yes,Sometimes,More than 1000,No,Yes,Don't know,Not sure,No,Don't know,Don't know,Somewhat difficult,1.0,"$19,485,394,000,000",$19.485 trillion,2.27%,325084756.0,"$59,939",24.08%
+35,Male,United States,Yes,No,,More than 1000,No,Yes,Yes,No,Yes,Yes,Yes,Very easy,1.0,"$19,485,394,000,000",$19.485 trillion,2.27%,325084756.0,"$59,939",24.08%
+36,Male,United States,Yes,Yes,Often,100-500,No,Yes,No,Yes,No,No,Yes,Very easy,1.0,"$19,485,394,000,000",$19.485 trillion,2.27%,325084756.0,"$59,939",24.08%
+21,Male,United States,Yes,Yes,Rarely,100-500,No,Yes,Yes,No,No,Don't know,Yes,Don't know,1.0,"$19,485,394,000,000",$19.485 trillion,2.27%,325084756.0,"$59,939",24.08%
+21,Male,United Kingdom,No,Yes,Sometimes,6-25,No,No,Don't know,Not sure,No,No,No,Very easy,6.0,"$2,637,866,340,434",$2.638 trillion,1.79%,66727461.0,"$39,532",3.26%
+25,Female,United States,Yes,Yes,Sometimes,26-100,Yes,Yes,Don't know,No,No,No,Don't know,Don't know,1.0,"$19,485,394,000,000",$19.485 trillion,2.27%,325084756.0,"$59,939",24.08%
+41,Male,Canada,No,Yes,Never,500-1000,No,Yes,Yes,Not sure,No,Don't know,Don't know,Somewhat easy,10.0,"$1,647,120,175,449",$1.647 trillion,3.05%,36732095.0,"$44,841",2.04%
+27,Male,United States,No,Yes,Rarely,More than 1000,No,Yes,Yes,No,Yes,Yes,Yes,Don't know,1.0,"$19,485,394,000,000",$19.485 trillion,2.27%,325084756.0,"$59,939",24.08%
+25,Male,Germany,Yes,Yes,Often,26-100,Yes,Yes,No,No,No,No,Yes,Somewhat easy,4.0,"$3,693,204,332,230",$3.693 trillion,2.22%,82658409.0,"$44,680",4.56%
+31,Male,United States,No,No,Never,More than 1000,No,Yes,Don't know,No,No,Don't know,Don't know,Somewhat easy,1.0,"$19,485,394,000,000",$19.485 trillion,2.27%,325084756.0,"$59,939",24.08%
+26,Male,Canada,Yes,Yes,Often,26-100,Yes,Yes,Don't know,No,Don't know,Don't know,Don't know,Very easy,10.0,"$1,647,120,175,449",$1.647 trillion,3.05%,36732095.0,"$44,841",2.04%
+29,Male,United States,No,No,Never,More than 1000,No,No,Yes,Not sure,No,Don't know,Don't know,Don't know,1.0,"$19,485,394,000,000",$19.485 trillion,2.27%,325084756.0,"$59,939",24.08%
+35,Male,United Kingdom,No,No,Sometimes,6-25,No,Yes,No,No,No,No,Don't know,Very difficult,6.0,"$2,637,866,340,434",$2.638 trillion,1.79%,66727461.0,"$39,532",3.26%
+29,Male,Canada,No,Yes,Sometimes,100-500,No,Yes,Don't know,Not sure,Don't know,Don't know,Yes,Somewhat easy,10.0,"$1,647,120,175,449",$1.647 trillion,3.05%,36732095.0,"$44,841",2.04%
+26,Male,United States,Yes,Yes,Often,6-25,No,Yes,Yes,Yes,No,No,Don't know,Somewhat difficult,1.0,"$19,485,394,000,000",$19.485 trillion,2.27%,325084756.0,"$59,939",24.08%
+28,Male,United States,Yes,Yes,Sometimes,26-100,No,Yes,Yes,Yes,No,No,Don't know,Don't know,1.0,"$19,485,394,000,000",$19.485 trillion,2.27%,325084756.0,"$59,939",24.08%
+26,Male,United States,Yes,No,,6-25,No,Yes,Yes,Yes,No,Yes,Yes,Very easy,1.0,"$19,485,394,000,000",$19.485 trillion,2.27%,325084756.0,"$59,939",24.08%
+33,Male,United States,Yes,Yes,Never,26-100,Yes,Yes,Yes,Yes,Yes,Yes,Don't know,Don't know,1.0,"$19,485,394,000,000",$19.485 trillion,2.27%,325084756.0,"$59,939",24.08%
+33,Male,United States,No,No,,More than 1000,Yes,Yes,Don't know,No,Don't know,Don't know,Don't know,Don't know,1.0,"$19,485,394,000,000",$19.485 trillion,2.27%,325084756.0,"$59,939",24.08%
+31,Female,United States,Yes,Yes,Rarely,More than 1000,No,No,Don't know,Not sure,No,Don't know,Don't know,Very difficult,1.0,"$19,485,394,000,000",$19.485 trillion,2.27%,325084756.0,"$59,939",24.08%
+30,Male,United States,Yes,No,Often,6-25,No,Yes,Don't know,No,No,Don't know,Don't know,Somewhat easy,1.0,"$19,485,394,000,000",$19.485 trillion,2.27%,325084756.0,"$59,939",24.08%
+32,Male,United Kingdom,Yes,Yes,Sometimes,6-25,No,Yes,No,No,No,Don't know,Don't know,Somewhat easy,6.0,"$2,637,866,340,434",$2.638 trillion,1.79%,66727461.0,"$39,532",3.26%
+28,Female,United States,No,Yes,Rarely,More than 1000,No,No,Yes,Yes,No,Don't know,Don't know,Don't know,1.0,"$19,485,394,000,000",$19.485 trillion,2.27%,325084756.0,"$59,939",24.08%
+24,Male,United States,Yes,Yes,Sometimes,100-500,No,Yes,No,Yes,No,No,Don't know,Somewhat difficult,1.0,"$19,485,394,000,000",$19.485 trillion,2.27%,325084756.0,"$59,939",24.08%
+26,Female,United States,No,No,,More than 1000,No,No,Yes,Not sure,Yes,Don't know,Don't know,Don't know,1.0,"$19,485,394,000,000",$19.485 trillion,2.27%,325084756.0,"$59,939",24.08%
+23,Male,United States,No,No,,More than 1000,No,No,Yes,No,No,No,Don't know,Don't know,1.0,"$19,485,394,000,000",$19.485 trillion,2.27%,325084756.0,"$59,939",24.08%
+24,Female,United States,No,No,,More than 1000,No,Yes,Yes,Yes,Yes,Yes,Yes,Somewhat easy,1.0,"$19,485,394,000,000",$19.485 trillion,2.27%,325084756.0,"$59,939",24.08%
+28,Male,Canada,No,No,Never,100-500,Yes,Yes,Don't know,No,No,No,Don't know,Somewhat easy,10.0,"$1,647,120,175,449",$1.647 trillion,3.05%,36732095.0,"$44,841",2.04%
+28,Male,United States,No,No,Never,6-25,No,Yes,Don't know,No,No,Don't know,Don't know,Don't know,1.0,"$19,485,394,000,000",$19.485 trillion,2.27%,325084756.0,"$59,939",24.08%
+26,Male,United States,No,No,,More than 1000,No,Yes,Don't know,Not sure,Don't know,Don't know,Don't know,Don't know,1.0,"$19,485,394,000,000",$19.485 trillion,2.27%,325084756.0,"$59,939",24.08%
+20,Male,Australia,No,No,,100-500,Yes,Yes,Don't know,Not sure,Don't know,Don't know,Yes,Very easy,13.0,"$1,323,421,072,479",$1.323 trillion,1.96%,24584620.0,"$53,831",1.64%
+29,Male,United States,Yes,Yes,Rarely,1-5,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Somewhat easy,1.0,"$19,485,394,000,000",$19.485 trillion,2.27%,325084756.0,"$59,939",24.08%
+26,Male,United Kingdom,Yes,No,Sometimes,6-25,No,Yes,No,No,No,No,Don't know,Don't know,6.0,"$2,637,866,340,434",$2.638 trillion,1.79%,66727461.0,"$39,532",3.26%
+36,Male,United States,No,No,Rarely,More than 1000,Yes,Yes,Yes,No,Yes,Don't know,Don't know,Somewhat easy,1.0,"$19,485,394,000,000",$19.485 trillion,2.27%,325084756.0,"$59,939",24.08%
+39,Male,United States,Yes,No,Often,More than 1000,No,Yes,Yes,No,No,Don't know,Don't know,Don't know,1.0,"$19,485,394,000,000",$19.485 trillion,2.27%,325084756.0,"$59,939",24.08%
+24,Male,United States,No,Yes,Rarely,26-100,No,Yes,Yes,Yes,Yes,No,Don't know,Don't know,1.0,"$19,485,394,000,000",$19.485 trillion,2.27%,325084756.0,"$59,939",24.08%
+37,Male,Canada,Yes,Yes,Rarely,More than 1000,No,No,Yes,Yes,Yes,Yes,Don't know,Don't know,10.0,"$1,647,120,175,449",$1.647 trillion,3.05%,36732095.0,"$44,841",2.04%
+43,Male,United States,Yes,Yes,Often,6-25,Yes,Yes,Yes,Yes,No,No,Yes,Very easy,1.0,"$19,485,394,000,000",$19.485 trillion,2.27%,325084756.0,"$59,939",24.08%
+27,Male,United States,Yes,Yes,Sometimes,100-500,No,Yes,Don't know,Not sure,No,Don't know,Don't know,Don't know,1.0,"$19,485,394,000,000",$19.485 trillion,2.27%,325084756.0,"$59,939",24.08%
+36,Male,United States,No,No,Sometimes,More than 1000,No,Yes,Don't know,No,No,No,Yes,Somewhat easy,1.0,"$19,485,394,000,000",$19.485 trillion,2.27%,325084756.0,"$59,939",24.08%
+35,Male,Netherlands,Yes,No,Never,100-500,No,Yes,Yes,No,No,No,Yes,Don't know,18.0,"$830,572,618,850",$831 billion,3.16%,17021347.0,"$48,796",1.03%
+32,Male,United Kingdom,No,No,Never,6-25,No,Yes,No,No,No,No,Don't know,Don't know,6.0,"$2,637,866,340,434",$2.638 trillion,1.79%,66727461.0,"$39,532",3.26%
+29,Male,United Kingdom,No,No,,26-100,No,Yes,Don't know,No,Don't know,Don't know,Don't know,Don't know,6.0,"$2,637,866,340,434",$2.638 trillion,1.79%,66727461.0,"$39,532",3.26%
+26,Female,United States,Yes,No,Never,26-100,No,Yes,Don't know,Not sure,No,No,Don't know,Somewhat difficult,1.0,"$19,485,394,000,000",$19.485 trillion,2.27%,325084756.0,"$59,939",24.08%
+38,Male,United Kingdom,No,Yes,Sometimes,26-100,Yes,Yes,No,No,No,No,Yes,Somewhat easy,6.0,"$2,637,866,340,434",$2.638 trillion,1.79%,66727461.0,"$39,532",3.26%
+28,Male,United Kingdom,No,Yes,Sometimes,More than 1000,No,Yes,No,No,No,No,No,Very difficult,6.0,"$2,637,866,340,434",$2.638 trillion,1.79%,66727461.0,"$39,532",3.26%
+31,Male,United States,No,Yes,Sometimes,100-500,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Very easy,1.0,"$19,485,394,000,000",$19.485 trillion,2.27%,325084756.0,"$59,939",24.08%
+58,Male,United States,No,Yes,Rarely,More than 1000,No,Yes,Yes,Yes,Yes,Yes,Yes,Somewhat easy,1.0,"$19,485,394,000,000",$19.485 trillion,2.27%,325084756.0,"$59,939",24.08%
+29,Male,United States,No,No,Sometimes,6-25,No,Yes,Don't know,No,No,No,Don't know,Very difficult,1.0,"$19,485,394,000,000",$19.485 trillion,2.27%,325084756.0,"$59,939",24.08%
+39,Female,United Kingdom,No,Yes,Sometimes,More than 1000,No,Yes,Yes,Yes,No,Yes,Don't know,Don't know,6.0,"$2,637,866,340,434",$2.638 trillion,1.79%,66727461.0,"$39,532",3.26%
+34,Male,United States,No,No,Sometimes,6-25,Yes,Yes,Don't know,No,No,No,Don't know,Very difficult,1.0,"$19,485,394,000,000",$19.485 trillion,2.27%,325084756.0,"$59,939",24.08%
+57,Male,United States,No,Yes,Sometimes,More than 1000,No,Yes,Yes,Not sure,Yes,Yes,Don't know,Don't know,1.0,"$19,485,394,000,000",$19.485 trillion,2.27%,325084756.0,"$59,939",24.08%
+27,Male,Germany,Yes,Yes,Sometimes,6-25,No,Yes,No,Not sure,No,No,Don't know,Somewhat difficult,4.0,"$3,693,204,332,230",$3.693 trillion,2.22%,82658409.0,"$44,680",4.56%
+23,Male,United States,No,No,Never,26-100,No,No,Don't know,Not sure,Don't know,Don't know,Don't know,Don't know,1.0,"$19,485,394,000,000",$19.485 trillion,2.27%,325084756.0,"$59,939",24.08%
+18,Female,United Kingdom,Yes,Yes,Sometimes,1-5,Yes,Yes,Don't know,Not sure,Don't know,Don't know,Don't know,Don't know,6.0,"$2,637,866,340,434",$2.638 trillion,1.79%,66727461.0,"$39,532",3.26%
+28,Female,United States,Yes,Yes,Sometimes,26-100,No,Yes,Don't know,Not sure,No,No,Don't know,Don't know,1.0,"$19,485,394,000,000",$19.485 trillion,2.27%,325084756.0,"$59,939",24.08%
+30,Male,United States,Yes,Yes,Often,1-5,Yes,Yes,No,Yes,No,No,Yes,Very easy,1.0,"$19,485,394,000,000",$19.485 trillion,2.27%,325084756.0,"$59,939",24.08%
+31,Male,United States,No,No,,More than 1000,No,Yes,Yes,Not sure,Don't know,Don't know,Yes,Don't know,1.0,"$19,485,394,000,000",$19.485 trillion,2.27%,325084756.0,"$59,939",24.08%
+24,Female,United States,Yes,Yes,Sometimes,1-5,Yes,Yes,No,No,Don't know,Don't know,Don't know,Don't know,1.0,"$19,485,394,000,000",$19.485 trillion,2.27%,325084756.0,"$59,939",24.08%
+23,Female,United States,Yes,Yes,Often,More than 1000,No,Yes,Yes,Not sure,Don't know,No,Don't know,Don't know,1.0,"$19,485,394,000,000",$19.485 trillion,2.27%,325084756.0,"$59,939",24.08%
+54,Male,United Kingdom,No,Yes,Sometimes,More than 1000,Yes,No,No,Yes,Yes,Yes,Yes,Very easy,6.0,"$2,637,866,340,434",$2.638 trillion,1.79%,66727461.0,"$39,532",3.26%
+34,Male,Netherlands,No,No,Rarely,6-25,No,Yes,Don't know,Not sure,Don't know,Don't know,Don't know,Somewhat easy,18.0,"$830,572,618,850",$831 billion,3.16%,17021347.0,"$48,796",1.03%
+40,Male,Ireland,Yes,No,,More than 1000,No,Yes,No,No,No,No,No,Don't know,34.0,"$331,430,014,003",$331 billion,7.80%,4753279.0,"$69,727",0.41%
+25,Male,Germany,No,No,Never,More than 1000,No,No,Don't know,Not sure,Don't know,Yes,Don't know,Don't know,4.0,"$3,693,204,332,230",$3.693 trillion,2.22%,82658409.0,"$44,680",4.56%
+35,Female,United States,No,Yes,Sometimes,100-500,No,Yes,No,Yes,No,No,Don't know,Don't know,1.0,"$19,485,394,000,000",$19.485 trillion,2.27%,325084756.0,"$59,939",24.08%
+22,Male,United States,No,No,,More than 1000,No,Yes,Yes,Not sure,Yes,Don't know,Yes,Don't know,1.0,"$19,485,394,000,000",$19.485 trillion,2.27%,325084756.0,"$59,939",24.08%
+33,Female,United States,No,Yes,Sometimes,500-1000,Yes,Yes,Yes,Yes,Yes,Yes,Don't know,Very easy,1.0,"$19,485,394,000,000",$19.485 trillion,2.27%,325084756.0,"$59,939",24.08%
+39,Male,United States,No,No,Never,26-100,No,Yes,Yes,Yes,Yes,Yes,Yes,Very easy,1.0,"$19,485,394,000,000",$19.485 trillion,2.27%,325084756.0,"$59,939",24.08%
+43,Male,United States,No,No,,6-25,Yes,Yes,Don't know,No,No,Don't know,Don't know,Don't know,1.0,"$19,485,394,000,000",$19.485 trillion,2.27%,325084756.0,"$59,939",24.08%
+46,Male,United States,No,Yes,Rarely,500-1000,Yes,Yes,Yes,Not sure,Yes,Yes,Yes,Don't know,1.0,"$19,485,394,000,000",$19.485 trillion,2.27%,325084756.0,"$59,939",24.08%
+38,Female,United States,Yes,Yes,Sometimes,More than 1000,No,No,Yes,Yes,Yes,Yes,Yes,Very easy,1.0,"$19,485,394,000,000",$19.485 trillion,2.27%,325084756.0,"$59,939",24.08%
+33,Male,Germany,No,Yes,Sometimes,6-25,No,Yes,Yes,Yes,No,No,Yes,Very easy,4.0,"$3,693,204,332,230",$3.693 trillion,2.22%,82658409.0,"$44,680",4.56%
+34,Male,United Kingdom,Yes,Yes,Often,26-100,No,Yes,No,Yes,No,No,Yes,Very easy,6.0,"$2,637,866,340,434",$2.638 trillion,1.79%,66727461.0,"$39,532",3.26%
+35,Male,United States,No,No,,More than 1000,No,No,No,No,No,No,Don't know,Don't know,1.0,"$19,485,394,000,000",$19.485 trillion,2.27%,325084756.0,"$59,939",24.08%
+41,Female,United States,Yes,Yes,Rarely,500-1000,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Very easy,1.0,"$19,485,394,000,000",$19.485 trillion,2.27%,325084756.0,"$59,939",24.08%
+31,Female,Canada,Yes,Yes,Sometimes,100-500,Yes,Yes,Don't know,Not sure,Don't know,Don't know,Don't know,Don't know,10.0,"$1,647,120,175,449",$1.647 trillion,3.05%,36732095.0,"$44,841",2.04%
+27,Male,United Kingdom,No,No,,6-25,No,Yes,No,No,No,No,Don't know,Don't know,6.0,"$2,637,866,340,434",$2.638 trillion,1.79%,66727461.0,"$39,532",3.26%
+31,Male,Australia,No,Yes,Rarely,100-500,No,Yes,Yes,Yes,Yes,Yes,Don't know,Somewhat easy,13.0,"$1,323,421,072,479",$1.323 trillion,1.96%,24584620.0,"$53,831",1.64%
+21,Male,Canada,No,No,Never,26-100,No,Yes,Don't know,Not sure,Don't know,No,Don't know,Don't know,10.0,"$1,647,120,175,449",$1.647 trillion,3.05%,36732095.0,"$44,841",2.04%
+27,Female,Australia,Yes,Yes,Sometimes,6-25,No,Yes,No,Yes,No,No,No,Somewhat difficult,13.0,"$1,323,421,072,479",$1.323 trillion,1.96%,24584620.0,"$53,831",1.64%
+27,Male,United Kingdom,No,No,Never,6-25,No,Yes,Don't know,No,No,No,Don't know,Don't know,6.0,"$2,637,866,340,434",$2.638 trillion,1.79%,66727461.0,"$39,532",3.26%
+22,Female,United States,Yes,Yes,Sometimes,500-1000,No,Yes,Yes,Yes,No,Don't know,Don't know,Don't know,1.0,"$19,485,394,000,000",$19.485 trillion,2.27%,325084756.0,"$59,939",24.08%
+31,Female,United States,Yes,Yes,Rarely,100-500,No,Yes,Yes,Yes,No,No,Yes,Somewhat easy,1.0,"$19,485,394,000,000",$19.485 trillion,2.27%,325084756.0,"$59,939",24.08%
+30,Male,United Kingdom,No,No,Never,26-100,Yes,Yes,Don't know,Not sure,Don't know,Don't know,Don't know,Very easy,6.0,"$2,637,866,340,434",$2.638 trillion,1.79%,66727461.0,"$39,532",3.26%
+36,Male,United States,Yes,Yes,Sometimes,More than 1000,No,Yes,Yes,No,No,Yes,Don't know,Somewhat difficult,1.0,"$19,485,394,000,000",$19.485 trillion,2.27%,325084756.0,"$59,939",24.08%
+32,Female,Canada,No,Yes,Often,More than 1000,No,No,Don't know,Not sure,Don't know,Don't know,Don't know,Don't know,10.0,"$1,647,120,175,449",$1.647 trillion,3.05%,36732095.0,"$44,841",2.04%
+22,Male,Netherlands,Yes,Yes,Sometimes,6-25,Yes,Yes,No,Not sure,No,Don't know,Don't know,Somewhat easy,18.0,"$830,572,618,850",$831 billion,3.16%,17021347.0,"$48,796",1.03%
+65,Male,United States,No,No,,6-25,Yes,No,No,No,No,No,Don't know,Very easy,1.0,"$19,485,394,000,000",$19.485 trillion,2.27%,325084756.0,"$59,939",24.08%
+27,Male,United States,Yes,Yes,Sometimes,100-500,Yes,Yes,Don't know,No,No,Don't know,Don't know,Don't know,1.0,"$19,485,394,000,000",$19.485 trillion,2.27%,325084756.0,"$59,939",24.08%
+33,Male,Australia,No,No,Never,More than 1000,No,Yes,Don't know,Not sure,Don't know,Don't know,Yes,Very easy,13.0,"$1,323,421,072,479",$1.323 trillion,1.96%,24584620.0,"$53,831",1.64%
+36,Male,United States,No,Yes,Rarely,26-100,No,Yes,Don't know,Not sure,No,Don't know,Don't know,Don't know,1.0,"$19,485,394,000,000",$19.485 trillion,2.27%,325084756.0,"$59,939",24.08%
+40,Male,Canada,No,No,Never,26-100,No,Yes,No,No,No,No,Don't know,Somewhat difficult,10.0,"$1,647,120,175,449",$1.647 trillion,3.05%,36732095.0,"$44,841",2.04%
+39,Male,United States,No,Yes,Sometimes,500-1000,No,Yes,Yes,Not sure,Yes,Don't know,Yes,Don't know,1.0,"$19,485,394,000,000",$19.485 trillion,2.27%,325084756.0,"$59,939",24.08%
+32,Male,United States,No,Yes,Sometimes,More than 1000,No,Yes,Yes,No,No,Yes,Don't know,Somewhat easy,1.0,"$19,485,394,000,000",$19.485 trillion,2.27%,325084756.0,"$59,939",24.08%
+23,Male,United States,Yes,Yes,Rarely,1-5,No,Yes,No,Yes,No,No,Don't know,Don't know,1.0,"$19,485,394,000,000",$19.485 trillion,2.27%,325084756.0,"$59,939",24.08%
+27,Female,United States,No,No,Sometimes,500-1000,No,Yes,Don't know,Not sure,Don't know,Yes,Don't know,Don't know,1.0,"$19,485,394,000,000",$19.485 trillion,2.27%,325084756.0,"$59,939",24.08%
+26,Female,United States,Yes,Yes,Sometimes,26-100,No,Yes,Yes,Yes,No,No,Yes,Somewhat difficult,1.0,"$19,485,394,000,000",$19.485 trillion,2.27%,325084756.0,"$59,939",24.08%
+50,Male,United States,No,No,Never,26-100,Yes,Yes,No,Yes,No,No,Don't know,Don't know,1.0,"$19,485,394,000,000",$19.485 trillion,2.27%,325084756.0,"$59,939",24.08%
+37,Male,United States,Yes,No,Never,26-100,No,Yes,Don't know,No,No,Don't know,Don't know,Somewhat easy,1.0,"$19,485,394,000,000",$19.485 trillion,2.27%,325084756.0,"$59,939",24.08%
+23,Male,United States,No,No,,26-100,No,Yes,Don't know,No,Don't know,No,Don't know,Don't know,1.0,"$19,485,394,000,000",$19.485 trillion,2.27%,325084756.0,"$59,939",24.08%
+34,Male,United States,Yes,Yes,Sometimes,26-100,Yes,No,Yes,No,No,No,Don't know,Don't know,1.0,"$19,485,394,000,000",$19.485 trillion,2.27%,325084756.0,"$59,939",24.08%
+50,Male,United States,Yes,No,,100-500,Yes,Yes,Don't know,No,No,Don't know,Don't know,Don't know,1.0,"$19,485,394,000,000",$19.485 trillion,2.27%,325084756.0,"$59,939",24.08%
+29,Male,Canada,No,Yes,Never,More than 1000,No,No,Yes,Not sure,Yes,Yes,Yes,Somewhat difficult,10.0,"$1,647,120,175,449",$1.647 trillion,3.05%,36732095.0,"$44,841",2.04%
+35,Male,United States,No,No,Never,6-25,No,Yes,No,Yes,No,No,Yes,Very easy,1.0,"$19,485,394,000,000",$19.485 trillion,2.27%,325084756.0,"$59,939",24.08%
+40,Female,United States,No,No,Never,26-100,No,No,Don't know,Not sure,No,No,Don't know,Somewhat easy,1.0,"$19,485,394,000,000",$19.485 trillion,2.27%,325084756.0,"$59,939",24.08%
+27,Male,Australia,No,Yes,Often,100-500,Yes,Yes,No,No,No,No,Don't know,Don't know,13.0,"$1,323,421,072,479",$1.323 trillion,1.96%,24584620.0,"$53,831",1.64%
+31,Male,United States,Yes,Yes,Sometimes,6-25,No,Yes,No,No,No,No,Don't know,Somewhat easy,1.0,"$19,485,394,000,000",$19.485 trillion,2.27%,325084756.0,"$59,939",24.08%
+43,Male,United States,No,Yes,Sometimes,6-25,No,Yes,No,Yes,No,No,Don't know,Somewhat easy,1.0,"$19,485,394,000,000",$19.485 trillion,2.27%,325084756.0,"$59,939",24.08%
+34,Male,United States,Yes,Yes,Sometimes,26-100,Yes,Yes,Yes,Yes,No,No,Don't know,Don't know,1.0,"$19,485,394,000,000",$19.485 trillion,2.27%,325084756.0,"$59,939",24.08%
+29,Male,United States,Yes,Yes,Sometimes,26-100,No,Yes,Don't know,No,No,No,No,Somewhat difficult,1.0,"$19,485,394,000,000",$19.485 trillion,2.27%,325084756.0,"$59,939",24.08%
+19,Male,Canada,Yes,Yes,Sometimes,1-5,No,Yes,No,No,No,No,Don't know,Don't know,10.0,"$1,647,120,175,449",$1.647 trillion,3.05%,36732095.0,"$44,841",2.04%
+29,Male,United States,Yes,No,Never,100-500,No,Yes,Yes,Yes,Yes,Yes,Don't know,Don't know,1.0,"$19,485,394,000,000",$19.485 trillion,2.27%,325084756.0,"$59,939",24.08%
+23,Male,United States,No,No,Rarely,100-500,No,Yes,Yes,Not sure,Don't know,Don't know,Don't know,Don't know,1.0,"$19,485,394,000,000",$19.485 trillion,2.27%,325084756.0,"$59,939",24.08%
+24,Female,United States,Yes,Yes,Sometimes,100-500,No,Yes,Yes,Not sure,No,No,Don't know,Somewhat difficult,1.0,"$19,485,394,000,000",$19.485 trillion,2.27%,325084756.0,"$59,939",24.08%
+43,Male,United States,No,No,,500-1000,Yes,Yes,Don't know,Not sure,Don't know,Don't know,Don't know,Don't know,1.0,"$19,485,394,000,000",$19.485 trillion,2.27%,325084756.0,"$59,939",24.08%
+31,Male,United States,Yes,Yes,Rarely,100-500,No,Yes,No,No,No,Don't know,Don't know,Somewhat difficult,1.0,"$19,485,394,000,000",$19.485 trillion,2.27%,325084756.0,"$59,939",24.08%
+29,Male,United States,Yes,No,Often,100-500,No,Yes,Yes,Yes,Yes,Yes,Don't know,Don't know,1.0,"$19,485,394,000,000",$19.485 trillion,2.27%,325084756.0,"$59,939",24.08%
+35,Male,United States,Yes,No,,6-25,Yes,Yes,No,No,Yes,Yes,Don't know,Very easy,1.0,"$19,485,394,000,000",$19.485 trillion,2.27%,325084756.0,"$59,939",24.08%
+33,Male,United States,Yes,Yes,Sometimes,100-500,No,No,Yes,Not sure,No,No,Yes,Somewhat difficult,1.0,"$19,485,394,000,000",$19.485 trillion,2.27%,325084756.0,"$59,939",24.08%
+32,Male,United States,No,No,Sometimes,100-500,No,Yes,No,Yes,No,No,Don't know,Don't know,1.0,"$19,485,394,000,000",$19.485 trillion,2.27%,325084756.0,"$59,939",24.08%
+50,Male,United States,No,No,Sometimes,1-5,Yes,Yes,Don't know,No,No,Don't know,Don't know,Don't know,1.0,"$19,485,394,000,000",$19.485 trillion,2.27%,325084756.0,"$59,939",24.08%
+27,Male,United States,No,No,,26-100,No,Yes,Don't know,No,No,No,Don't know,Don't know,1.0,"$19,485,394,000,000",$19.485 trillion,2.27%,325084756.0,"$59,939",24.08%
+27,Male,Australia,No,No,Never,1-5,Yes,Yes,No,No,No,No,Don't know,Don't know,13.0,"$1,323,421,072,479",$1.323 trillion,1.96%,24584620.0,"$53,831",1.64%
+32,Male,United States,No,Yes,Sometimes,6-25,No,Yes,No,Yes,No,No,Yes,Somewhat easy,1.0,"$19,485,394,000,000",$19.485 trillion,2.27%,325084756.0,"$59,939",24.08%
+42,Male,United States,No,No,Rarely,6-25,Yes,No,No,Yes,No,No,Don't know,Very easy,1.0,"$19,485,394,000,000",$19.485 trillion,2.27%,325084756.0,"$59,939",24.08%
+37,Male,United States,No,No,Often,More than 1000,No,No,Don't know,No,No,No,Don't know,Don't know,1.0,"$19,485,394,000,000",$19.485 trillion,2.27%,325084756.0,"$59,939",24.08%
+29,Male,United States,No,No,Rarely,More than 1000,No,Yes,Yes,No,No,No,Don't know,Very easy,1.0,"$19,485,394,000,000",$19.485 trillion,2.27%,325084756.0,"$59,939",24.08%
+30,Male,United States,No,Yes,Often,6-25,Yes,Yes,No,Not sure,No,Yes,Don't know,Somewhat difficult,1.0,"$19,485,394,000,000",$19.485 trillion,2.27%,325084756.0,"$59,939",24.08%
+35,Male,United States,No,No,Never,26-100,No,Yes,Yes,No,Yes,Don't know,Don't know,Don't know,1.0,"$19,485,394,000,000",$19.485 trillion,2.27%,325084756.0,"$59,939",24.08%
+35,Male,United States,Yes,Yes,Rarely,100-500,Yes,No,Yes,Yes,No,No,Yes,Very difficult,1.0,"$19,485,394,000,000",$19.485 trillion,2.27%,325084756.0,"$59,939",24.08%
+22,Male,United Kingdom,Yes,Yes,Sometimes,100-500,No,Yes,Yes,Yes,No,No,Yes,Very easy,6.0,"$2,637,866,340,434",$2.638 trillion,1.79%,66727461.0,"$39,532",3.26%
+31,Female,United States,No,Yes,Often,26-100,Yes,Yes,Yes,Yes,No,No,Don't know,Very easy,1.0,"$19,485,394,000,000",$19.485 trillion,2.27%,325084756.0,"$59,939",24.08%
+31,Female,United States,Yes,Yes,Sometimes,100-500,No,Yes,Don't know,No,No,No,Don't know,Don't know,1.0,"$19,485,394,000,000",$19.485 trillion,2.27%,325084756.0,"$59,939",24.08%
+28,Female,United States,Yes,Yes,Rarely,500-1000,No,Yes,Yes,Yes,Yes,Yes,Don't know,Somewhat difficult,1.0,"$19,485,394,000,000",$19.485 trillion,2.27%,325084756.0,"$59,939",24.08%
+28,Male,United States,Yes,Yes,Sometimes,26-100,Yes,Yes,Yes,Not sure,No,Don't know,Don't know,Don't know,1.0,"$19,485,394,000,000",$19.485 trillion,2.27%,325084756.0,"$59,939",24.08%
+24,Female,United Kingdom,No,Yes,Sometimes,100-500,No,Yes,No,No,No,No,Don't know,Don't know,6.0,"$2,637,866,340,434",$2.638 trillion,1.79%,66727461.0,"$39,532",3.26%
+31,Male,Germany,No,No,Sometimes,6-25,Yes,Yes,No,No,No,No,No,Very easy,4.0,"$3,693,204,332,230",$3.693 trillion,2.22%,82658409.0,"$44,680",4.56%
+30,Male,United Kingdom,No,Yes,Often,26-100,No,Yes,No,No,No,No,Yes,Somewhat easy,6.0,"$2,637,866,340,434",$2.638 trillion,1.79%,66727461.0,"$39,532",3.26%
+35,Male,United States,No,No,,1-5,Yes,Yes,Yes,Not sure,No,No,Yes,Very easy,1.0,"$19,485,394,000,000",$19.485 trillion,2.27%,325084756.0,"$59,939",24.08%
+36,Male,Germany,No,No,,26-100,No,Yes,Yes,Yes,No,No,Yes,Very easy,4.0,"$3,693,204,332,230",$3.693 trillion,2.22%,82658409.0,"$44,680",4.56%
+29,Female,Australia,Yes,Yes,Sometimes,More than 1000,No,No,Yes,Yes,Yes,Yes,No,Somewhat difficult,13.0,"$1,323,421,072,479",$1.323 trillion,1.96%,24584620.0,"$53,831",1.64%
+57,Male,United States,No,No,Never,26-100,No,Yes,Yes,Yes,No,Yes,Yes,Somewhat difficult,1.0,"$19,485,394,000,000",$19.485 trillion,2.27%,325084756.0,"$59,939",24.08%
+37,Male,Ireland,No,No,Never,6-25,No,Yes,No,No,No,No,Don't know,Don't know,34.0,"$331,430,014,003",$331 billion,7.80%,4753279.0,"$69,727",0.41%
+25,Male,Ireland,Yes,Yes,Sometimes,26-100,No,Yes,No,No,No,No,Don't know,Don't know,34.0,"$331,430,014,003",$331 billion,7.80%,4753279.0,"$69,727",0.41%
+30,Male,Australia,No,No,Sometimes,26-100,No,Yes,No,No,No,No,Don't know,Very easy,13.0,"$1,323,421,072,479",$1.323 trillion,1.96%,24584620.0,"$53,831",1.64%
+22,Female,Netherlands,No,No,Often,6-25,No,Yes,No,No,No,No,Don't know,Don't know,18.0,"$830,572,618,850",$831 billion,3.16%,17021347.0,"$48,796",1.03%
+29,Male,United Kingdom,Yes,Yes,Never,100-500,No,Yes,Don't know,Not sure,Don't know,Don't know,Don't know,Don't know,6.0,"$2,637,866,340,434",$2.638 trillion,1.79%,66727461.0,"$39,532",3.26%
+34,Female,Australia,Yes,No,Never,500-1000,No,No,Don't know,No,Yes,Yes,Don't know,Don't know,13.0,"$1,323,421,072,479",$1.323 trillion,1.96%,24584620.0,"$53,831",1.64%
+27,Male,United Kingdom,No,No,Never,1-5,No,Yes,Don't know,No,No,Don't know,Don't know,Don't know,6.0,"$2,637,866,340,434",$2.638 trillion,1.79%,66727461.0,"$39,532",3.26%
+32,Male,United States,No,No,Never,More than 1000,No,Yes,Don't know,Not sure,Don't know,Don't know,Don't know,Don't know,1.0,"$19,485,394,000,000",$19.485 trillion,2.27%,325084756.0,"$59,939",24.08%
+26,Male,Ireland,No,No,Never,1-5,Yes,Yes,No,No,No,No,Don't know,Somewhat difficult,34.0,"$331,430,014,003",$331 billion,7.80%,4753279.0,"$69,727",0.41%
+30,Male,Ireland,No,Yes,Sometimes,26-100,Yes,Yes,No,No,Don't know,No,Don't know,Very difficult,34.0,"$331,430,014,003",$331 billion,7.80%,4753279.0,"$69,727",0.41%
+23,Male,United States,Yes,No,Sometimes,6-25,No,Yes,Don't know,Not sure,No,Don't know,Don't know,Don't know,1.0,"$19,485,394,000,000",$19.485 trillion,2.27%,325084756.0,"$59,939",24.08%
+35,Male,Canada,Yes,No,Sometimes,26-100,No,Yes,Don't know,No,No,No,Don't know,Don't know,10.0,"$1,647,120,175,449",$1.647 trillion,3.05%,36732095.0,"$44,841",2.04%
+28,Male,United States,No,Yes,Sometimes,26-100,Yes,No,Don't know,Not sure,No,Don't know,Don't know,Don't know,1.0,"$19,485,394,000,000",$19.485 trillion,2.27%,325084756.0,"$59,939",24.08%
+29,Female,United States,Yes,Yes,Rarely,6-25,No,Yes,Don't know,No,No,No,Don't know,Don't know,1.0,"$19,485,394,000,000",$19.485 trillion,2.27%,325084756.0,"$59,939",24.08%
+29,Male,Germany,No,No,,1-5,No,Yes,No,Yes,No,No,Yes,Very easy,4.0,"$3,693,204,332,230",$3.693 trillion,2.22%,82658409.0,"$44,680",4.56%
+45,Male,United States,No,Yes,Often,1-5,Yes,Yes,Yes,Not sure,No,Yes,Don't know,Very easy,1.0,"$19,485,394,000,000",$19.485 trillion,2.27%,325084756.0,"$59,939",24.08%
+38,Male,United States,No,Yes,Sometimes,More than 1000,No,No,Yes,Yes,Yes,Yes,Don't know,Don't know,1.0,"$19,485,394,000,000",$19.485 trillion,2.27%,325084756.0,"$59,939",24.08%
+21,Female,United Kingdom,No,No,,6-25,No,Yes,No,No,No,No,Don't know,Don't know,6.0,"$2,637,866,340,434",$2.638 trillion,1.79%,66727461.0,"$39,532",3.26%
+49,Male,United States,Yes,Yes,Sometimes,100-500,No,Yes,Yes,Not sure,Yes,Yes,Yes,Somewhat easy,1.0,"$19,485,394,000,000",$19.485 trillion,2.27%,325084756.0,"$59,939",24.08%
+28,Male,United States,No,No,,26-100,Yes,Yes,Don't know,No,No,No,Don't know,Don't know,1.0,"$19,485,394,000,000",$19.485 trillion,2.27%,325084756.0,"$59,939",24.08%
+28,Female,Canada,No,No,,More than 1000,No,Yes,Yes,Not sure,Don't know,Don't know,Don't know,Somewhat easy,10.0,"$1,647,120,175,449",$1.647 trillion,3.05%,36732095.0,"$44,841",2.04%
+32,Male,United Kingdom,No,No,,6-25,No,Yes,No,No,No,No,Don't know,Don't know,6.0,"$2,637,866,340,434",$2.638 trillion,1.79%,66727461.0,"$39,532",3.26%
+32,Male,United Kingdom,No,Yes,Sometimes,26-100,No,No,Yes,Yes,No,No,Yes,Very easy,6.0,"$2,637,866,340,434",$2.638 trillion,1.79%,66727461.0,"$39,532",3.26%
+29,Male,United States,No,No,,6-25,No,Yes,No,No,No,Don't know,Don't know,Somewhat difficult,1.0,"$19,485,394,000,000",$19.485 trillion,2.27%,325084756.0,"$59,939",24.08%
+23,Male,United States,No,Yes,Often,26-100,No,No,Yes,Yes,Yes,No,Yes,Somewhat easy,1.0,"$19,485,394,000,000",$19.485 trillion,2.27%,325084756.0,"$59,939",24.08%
+32,Male,United Kingdom,No,Yes,Rarely,100-500,No,Yes,Don't know,No,No,No,Don't know,Don't know,6.0,"$2,637,866,340,434",$2.638 trillion,1.79%,66727461.0,"$39,532",3.26%
+26,Male,United States,No,No,Never,26-100,No,Yes,Don't know,Not sure,No,No,Don't know,Don't know,1.0,"$19,485,394,000,000",$19.485 trillion,2.27%,325084756.0,"$59,939",24.08%
+32,Male,United States,No,Yes,Sometimes,1-5,Yes,Yes,Don't know,Not sure,Don't know,Don't know,Don't know,Very easy,1.0,"$19,485,394,000,000",$19.485 trillion,2.27%,325084756.0,"$59,939",24.08%
+29,Male,United States,No,Yes,Often,26-100,No,Yes,Yes,Yes,No,No,Yes,Very easy,1.0,"$19,485,394,000,000",$19.485 trillion,2.27%,325084756.0,"$59,939",24.08%
+34,Male,United Kingdom,No,No,,6-25,No,Yes,No,No,No,No,Don't know,Somewhat easy,6.0,"$2,637,866,340,434",$2.638 trillion,1.79%,66727461.0,"$39,532",3.26%
+29,Male,United States,No,No,Never,6-25,No,Yes,Yes,Yes,No,Yes,Yes,Don't know,1.0,"$19,485,394,000,000",$19.485 trillion,2.27%,325084756.0,"$59,939",24.08%
+32,Male,United States,Yes,Yes,Sometimes,1-5,Yes,Yes,Yes,Yes,Don't know,Don't know,Don't know,Very difficult,1.0,"$19,485,394,000,000",$19.485 trillion,2.27%,325084756.0,"$59,939",24.08%
+25,Male,Germany,No,No,,500-1000,No,Yes,Yes,Yes,Don't know,Yes,Yes,Somewhat easy,4.0,"$3,693,204,332,230",$3.693 trillion,2.22%,82658409.0,"$44,680",4.56%
+29,Male,Netherlands,Yes,No,,6-25,No,Yes,No,No,No,No,Don't know,Very easy,18.0,"$830,572,618,850",$831 billion,3.16%,17021347.0,"$48,796",1.03%
+33,Male,United Kingdom,No,No,,6-25,No,Yes,Don't know,No,No,No,Don't know,Don't know,6.0,"$2,637,866,340,434",$2.638 trillion,1.79%,66727461.0,"$39,532",3.26%
+25,Male,United States,Yes,Yes,Never,6-25,Yes,Yes,Don't know,No,Yes,Don't know,Don't know,Don't know,1.0,"$19,485,394,000,000",$19.485 trillion,2.27%,325084756.0,"$59,939",24.08%
+33,Male,United States,Yes,Yes,Sometimes,1-5,No,No,No,Yes,No,No,Don't know,Don't know,1.0,"$19,485,394,000,000",$19.485 trillion,2.27%,325084756.0,"$59,939",24.08%
+29,Male,United States,No,No,,More than 1000,No,No,Don't know,Not sure,Don't know,Don't know,Don't know,Don't know,1.0,"$19,485,394,000,000",$19.485 trillion,2.27%,325084756.0,"$59,939",24.08%
+29,Male,United States,No,No,,6-25,Yes,Yes,Don't know,Not sure,No,No,Don't know,Very easy,1.0,"$19,485,394,000,000",$19.485 trillion,2.27%,325084756.0,"$59,939",24.08%
+31,Male,United States,No,No,,26-100,No,No,Yes,Yes,Yes,Yes,Yes,Don't know,1.0,"$19,485,394,000,000",$19.485 trillion,2.27%,325084756.0,"$59,939",24.08%
+5,Male,United States,No,No,,100-500,No,Yes,Don't know,Not sure,No,No,Don't know,Somewhat easy,1.0,"$19,485,394,000,000",$19.485 trillion,2.27%,325084756.0,"$59,939",24.08%
+33,Male,United Kingdom,No,No,Never,100-500,No,No,No,Not sure,No,No,Don't know,Very easy,6.0,"$2,637,866,340,434",$2.638 trillion,1.79%,66727461.0,"$39,532",3.26%
+33,Male,United Kingdom,No,Yes,Sometimes,26-100,No,Yes,Don't know,Not sure,No,No,Don't know,Don't know,6.0,"$2,637,866,340,434",$2.638 trillion,1.79%,66727461.0,"$39,532",3.26%
+27,Male,United Kingdom,No,No,,6-25,No,Yes,No,No,No,Yes,Yes,Don't know,6.0,"$2,637,866,340,434",$2.638 trillion,1.79%,66727461.0,"$39,532",3.26%
+36,Male,United States,Yes,Yes,Sometimes,More than 1000,Yes,No,Don't know,No,Don't know,Don't know,Don't know,Don't know,1.0,"$19,485,394,000,000",$19.485 trillion,2.27%,325084756.0,"$59,939",24.08%
+39,Male,United Kingdom,No,Yes,Sometimes,100-500,No,Yes,No,No,No,No,Don't know,Very easy,6.0,"$2,637,866,340,434",$2.638 trillion,1.79%,66727461.0,"$39,532",3.26%
+31,Male,United States,Yes,Yes,Sometimes,26-100,No,Yes,Yes,Yes,No,Don't know,Don't know,Somewhat easy,1.0,"$19,485,394,000,000",$19.485 trillion,2.27%,325084756.0,"$59,939",24.08%
+36,Male,United States,No,Yes,Sometimes,100-500,Yes,Yes,Yes,Yes,No,No,Don't know,Very difficult,1.0,"$19,485,394,000,000",$19.485 trillion,2.27%,325084756.0,"$59,939",24.08%
+30,Male,United States,No,Yes,Sometimes,26-100,Yes,Yes,Don't know,Not sure,Don't know,Don't know,Don't know,Don't know,1.0,"$19,485,394,000,000",$19.485 trillion,2.27%,325084756.0,"$59,939",24.08%
+35,Male,United States,Yes,Yes,Rarely,6-25,No,Yes,Yes,Yes,Yes,Yes,Yes,Very easy,1.0,"$19,485,394,000,000",$19.485 trillion,2.27%,325084756.0,"$59,939",24.08%
+19,Male,Canada,No,Yes,Sometimes,26-100,No,Yes,Don't know,Not sure,No,No,Don't know,Somewhat difficult,10.0,"$1,647,120,175,449",$1.647 trillion,3.05%,36732095.0,"$44,841",2.04%
+37,Male,United States,Yes,Yes,Sometimes,100-500,No,Yes,Don't know,Not sure,Don't know,Don't know,Don't know,Don't know,1.0,"$19,485,394,000,000",$19.485 trillion,2.27%,325084756.0,"$59,939",24.08%
+29,Female,United States,Yes,Yes,Sometimes,26-100,Yes,No,Don't know,No,No,Don't know,Don't know,Don't know,1.0,"$19,485,394,000,000",$19.485 trillion,2.27%,325084756.0,"$59,939",24.08%
+21,Male,United States,No,Yes,Often,More than 1000,No,No,No,Yes,No,No,No,Don't know,1.0,"$19,485,394,000,000",$19.485 trillion,2.27%,325084756.0,"$59,939",24.08%
+31,Male,Canada,Yes,No,Sometimes,1-5,Yes,Yes,No,Yes,No,No,Yes,Somewhat easy,10.0,"$1,647,120,175,449",$1.647 trillion,3.05%,36732095.0,"$44,841",2.04%
+37,Female,United States,Yes,Yes,Rarely,26-100,No,No,Yes,Yes,Yes,Yes,Don't know,Don't know,1.0,"$19,485,394,000,000",$19.485 trillion,2.27%,325084756.0,"$59,939",24.08%
+37,Male,Ireland,Yes,Yes,Sometimes,1-5,No,Yes,No,No,No,No,Don't know,Very easy,34.0,"$331,430,014,003",$331 billion,7.80%,4753279.0,"$69,727",0.41%
+38,Male,Ireland,Yes,Yes,Sometimes,1-5,No,Yes,No,No,No,No,No,Very difficult,34.0,"$331,430,014,003",$331 billion,7.80%,4753279.0,"$69,727",0.41%
+27,Female,United States,No,Yes,Sometimes,100-500,No,Yes,Don't know,Not sure,Yes,Don't know,Don't know,Somewhat easy,1.0,"$19,485,394,000,000",$19.485 trillion,2.27%,325084756.0,"$59,939",24.08%
+39,Male,Netherlands,No,No,,6-25,No,Yes,No,No,Yes,No,Yes,Somewhat easy,18.0,"$830,572,618,850",$831 billion,3.16%,17021347.0,"$48,796",1.03%
+33,Female,United States,Yes,Yes,Sometimes,1-5,No,Yes,Yes,Yes,Yes,Yes,Yes,Somewhat easy,1.0,"$19,485,394,000,000",$19.485 trillion,2.27%,325084756.0,"$59,939",24.08%
+27,Male,United Kingdom,No,No,Never,26-100,No,Yes,Don't know,Not sure,No,Don't know,Don't know,Somewhat easy,6.0,"$2,637,866,340,434",$2.638 trillion,1.79%,66727461.0,"$39,532",3.26%
+28,Male,United Kingdom,No,No,Never,26-100,No,Yes,Don't know,Not sure,No,No,Don't know,Somewhat easy,6.0,"$2,637,866,340,434",$2.638 trillion,1.79%,66727461.0,"$39,532",3.26%
+33,Male,United States,Yes,Yes,Sometimes,1-5,Yes,Yes,No,Yes,No,No,Yes,Very easy,1.0,"$19,485,394,000,000",$19.485 trillion,2.27%,325084756.0,"$59,939",24.08%
+32,Male,United Kingdom,No,No,,More than 1000,No,No,Don't know,Not sure,No,Don't know,Don't know,Don't know,6.0,"$2,637,866,340,434",$2.638 trillion,1.79%,66727461.0,"$39,532",3.26%
+28,Male,United Kingdom,No,No,,More than 1000,No,No,Don't know,Not sure,No,Don't know,Don't know,Don't know,6.0,"$2,637,866,340,434",$2.638 trillion,1.79%,66727461.0,"$39,532",3.26%
+37,Male,United Kingdom,Yes,Yes,Rarely,6-25,No,Yes,No,No,No,No,Yes,Somewhat easy,6.0,"$2,637,866,340,434",$2.638 trillion,1.79%,66727461.0,"$39,532",3.26%
+39,Male,Canada,No,Yes,Sometimes,100-500,No,No,Yes,Yes,Yes,Yes,Yes,Very easy,10.0,"$1,647,120,175,449",$1.647 trillion,3.05%,36732095.0,"$44,841",2.04%
+27,Female,United States,No,No,,More than 1000,No,Yes,Don't know,Not sure,No,Yes,Don't know,Don't know,1.0,"$19,485,394,000,000",$19.485 trillion,2.27%,325084756.0,"$59,939",24.08%
+31,Female,United Kingdom,No,No,,6-25,No,Yes,Don't know,No,No,No,Don't know,Don't know,6.0,"$2,637,866,340,434",$2.638 trillion,1.79%,66727461.0,"$39,532",3.26%
+43,Male,United Kingdom,No,Yes,Never,26-100,No,Yes,Don't know,No,No,Don't know,Don't know,Don't know,6.0,"$2,637,866,340,434",$2.638 trillion,1.79%,66727461.0,"$39,532",3.26%
+33,Male,United States,No,Yes,Sometimes,6-25,Yes,Yes,No,Yes,No,No,Yes,Somewhat difficult,1.0,"$19,485,394,000,000",$19.485 trillion,2.27%,325084756.0,"$59,939",24.08%
+25,Male,United States,No,No,,6-25,No,Yes,Don't know,No,No,No,Don't know,Don't know,1.0,"$19,485,394,000,000",$19.485 trillion,2.27%,325084756.0,"$59,939",24.08%
+25,Male,United States,Yes,Yes,Sometimes,More than 1000,No,No,Yes,Yes,Yes,Yes,Yes,Don't know,1.0,"$19,485,394,000,000",$19.485 trillion,2.27%,325084756.0,"$59,939",24.08%
+32,Male,United Kingdom,Yes,No,,1-5,No,Yes,No,Yes,No,No,Yes,Somewhat easy,6.0,"$2,637,866,340,434",$2.638 trillion,1.79%,66727461.0,"$39,532",3.26%
+25,Male,United States,Yes,Yes,Sometimes,26-100,No,Yes,Yes,Yes,Don't know,Don't know,Yes,Don't know,1.0,"$19,485,394,000,000",$19.485 trillion,2.27%,325084756.0,"$59,939",24.08%
+37,Male,Netherlands,No,No,,100-500,Yes,No,Don't know,No,Don't know,Don't know,Don't know,Somewhat easy,18.0,"$830,572,618,850",$831 billion,3.16%,17021347.0,"$48,796",1.03%
+33,Male,United States,No,Yes,Sometimes,More than 1000,No,Yes,Yes,Yes,Don't know,Don't know,Don't know,Don't know,1.0,"$19,485,394,000,000",$19.485 trillion,2.27%,325084756.0,"$59,939",24.08%
+35,Female,United States,No,Yes,Sometimes,100-500,No,No,Yes,No,No,No,Yes,Very difficult,1.0,"$19,485,394,000,000",$19.485 trillion,2.27%,325084756.0,"$59,939",24.08%
+22,Female,United States,Yes,Yes,Sometimes,More than 1000,No,Yes,Don't know,Not sure,Don't know,Don't know,Don't know,Very difficult,1.0,"$19,485,394,000,000",$19.485 trillion,2.27%,325084756.0,"$59,939",24.08%
+38,Male,United States,No,No,Never,26-100,No,Yes,Yes,Yes,No,No,Don't know,Somewhat easy,1.0,"$19,485,394,000,000",$19.485 trillion,2.27%,325084756.0,"$59,939",24.08%
+32,Female,United States,Yes,Yes,Often,100-500,No,Yes,Yes,No,No,Don't know,Don't know,Don't know,1.0,"$19,485,394,000,000",$19.485 trillion,2.27%,325084756.0,"$59,939",24.08%
+29,Male,United States,No,No,Never,100-500,No,No,Yes,Yes,Yes,No,Yes,Very easy,1.0,"$19,485,394,000,000",$19.485 trillion,2.27%,325084756.0,"$59,939",24.08%
+23,Male,United States,Yes,Yes,Sometimes,6-25,No,Yes,No,Yes,No,No,Don't know,Very easy,1.0,"$19,485,394,000,000",$19.485 trillion,2.27%,325084756.0,"$59,939",24.08%
+30,Female,United States,No,No,,More than 1000,No,Yes,Yes,Yes,Yes,Yes,Yes,Very easy,1.0,"$19,485,394,000,000",$19.485 trillion,2.27%,325084756.0,"$59,939",24.08%
+27,Male,United States,No,No,,26-100,Yes,Yes,Don't know,Not sure,No,Don't know,Don't know,Very easy,1.0,"$19,485,394,000,000",$19.485 trillion,2.27%,325084756.0,"$59,939",24.08%
+41,Male,United States,Yes,No,Sometimes,More than 1000,No,Yes,Yes,Yes,No,Yes,Don't know,Don't know,1.0,"$19,485,394,000,000",$19.485 trillion,2.27%,325084756.0,"$59,939",24.08%
+29,Male,United Kingdom,No,No,Never,6-25,No,Yes,Don't know,No,No,No,Don't know,Don't know,6.0,"$2,637,866,340,434",$2.638 trillion,1.79%,66727461.0,"$39,532",3.26%
+35,Male,United States,No,Yes,Often,1-5,No,No,No,No,No,No,Yes,Very difficult,1.0,"$19,485,394,000,000",$19.485 trillion,2.27%,325084756.0,"$59,939",24.08%
+28,Male,United States,No,Yes,Never,6-25,Yes,Yes,No,Yes,No,No,Don't know,Don't know,1.0,"$19,485,394,000,000",$19.485 trillion,2.27%,325084756.0,"$59,939",24.08%
+39,Female,United States,No,No,Sometimes,26-100,No,Yes,Don't know,Not sure,No,Don't know,Don't know,Don't know,1.0,"$19,485,394,000,000",$19.485 trillion,2.27%,325084756.0,"$59,939",24.08%
+39,Male,United States,Yes,Yes,Sometimes,500-1000,No,Yes,Yes,Yes,Yes,Yes,Yes,Very difficult,1.0,"$19,485,394,000,000",$19.485 trillion,2.27%,325084756.0,"$59,939",24.08%
+40,Female,United States,Yes,Yes,Sometimes,100-500,No,No,Yes,Not sure,Yes,Don't know,Don't know,Don't know,1.0,"$19,485,394,000,000",$19.485 trillion,2.27%,325084756.0,"$59,939",24.08%
+34,Male,United States,No,No,,More than 1000,Yes,Yes,Don't know,Not sure,Don't know,Don't know,Don't know,Don't know,1.0,"$19,485,394,000,000",$19.485 trillion,2.27%,325084756.0,"$59,939",24.08%
+20,Male,United States,No,No,Never,26-100,No,Yes,Don't know,Not sure,Don't know,Don't know,Don't know,Don't know,1.0,"$19,485,394,000,000",$19.485 trillion,2.27%,325084756.0,"$59,939",24.08%
+35,Male,United States,Yes,Yes,Sometimes,1-5,No,No,No,Yes,No,No,Yes,Don't know,1.0,"$19,485,394,000,000",$19.485 trillion,2.27%,325084756.0,"$59,939",24.08%
+29,Male,United States,Yes,No,Sometimes,More than 1000,Yes,No,Yes,Yes,No,Yes,Yes,Very easy,1.0,"$19,485,394,000,000",$19.485 trillion,2.27%,325084756.0,"$59,939",24.08%
+44,Male,United Kingdom,Yes,Yes,Sometimes,500-1000,No,No,Don't know,No,No,No,Don't know,Somewhat difficult,6.0,"$2,637,866,340,434",$2.638 trillion,1.79%,66727461.0,"$39,532",3.26%
+31,Female,United States,Yes,Yes,Sometimes,100-500,No,Yes,Yes,Yes,No,No,Don't know,Somewhat difficult,1.0,"$19,485,394,000,000",$19.485 trillion,2.27%,325084756.0,"$59,939",24.08%
+35,Male,United States,No,No,Sometimes,More than 1000,No,Yes,Don't know,Not sure,Yes,Don't know,Don't know,Don't know,1.0,"$19,485,394,000,000",$19.485 trillion,2.27%,325084756.0,"$59,939",24.08%
+36,Male,Netherlands,No,Yes,Sometimes,1-5,No,Yes,No,No,No,No,Don't know,Very easy,18.0,"$830,572,618,850",$831 billion,3.16%,17021347.0,"$48,796",1.03%
+42,Male,United States,No,Yes,Sometimes,1-5,Yes,Yes,No,Yes,No,No,Don't know,Somewhat easy,1.0,"$19,485,394,000,000",$19.485 trillion,2.27%,325084756.0,"$59,939",24.08%
+21,Male,United Kingdom,Yes,No,Never,6-25,No,No,No,No,No,No,Yes,Somewhat easy,6.0,"$2,637,866,340,434",$2.638 trillion,1.79%,66727461.0,"$39,532",3.26%
+26,Male,Canada,No,No,Sometimes,6-25,Yes,Yes,No,No,No,No,Don't know,Very difficult,10.0,"$1,647,120,175,449",$1.647 trillion,3.05%,36732095.0,"$44,841",2.04%
+31,Male,United States,Yes,No,,6-25,No,Yes,Don't know,Not sure,No,No,Don't know,Don't know,1.0,"$19,485,394,000,000",$19.485 trillion,2.27%,325084756.0,"$59,939",24.08%
+51,Male,United States,No,No,Never,More than 1000,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Very easy,1.0,"$19,485,394,000,000",$19.485 trillion,2.27%,325084756.0,"$59,939",24.08%
+24,Male,United States,No,No,,6-25,No,Yes,Don't know,Not sure,Don't know,No,Yes,Somewhat easy,1.0,"$19,485,394,000,000",$19.485 trillion,2.27%,325084756.0,"$59,939",24.08%
+33,Male,United States,No,No,,100-500,No,Yes,No,No,No,No,Don't know,Don't know,1.0,"$19,485,394,000,000",$19.485 trillion,2.27%,325084756.0,"$59,939",24.08%
+26,Male,United Kingdom,No,Yes,Rarely,1-5,Yes,Yes,No,Not sure,Don't know,Don't know,Don't know,Somewhat difficult,6.0,"$2,637,866,340,434",$2.638 trillion,1.79%,66727461.0,"$39,532",3.26%
+33,Male,United States,Yes,Yes,Often,6-25,Yes,Yes,No,Yes,No,No,Don't know,Very difficult,1.0,"$19,485,394,000,000",$19.485 trillion,2.27%,325084756.0,"$59,939",24.08%
+46,Male,United States,No,Yes,Rarely,More than 1000,No,No,Yes,Yes,Yes,Yes,Yes,Somewhat easy,1.0,"$19,485,394,000,000",$19.485 trillion,2.27%,325084756.0,"$59,939",24.08%
+32,Female,United Kingdom,Yes,Yes,Sometimes,100-500,No,Yes,Don't know,No,No,No,Don't know,Somewhat difficult,6.0,"$2,637,866,340,434",$2.638 trillion,1.79%,66727461.0,"$39,532",3.26%
+39,Male,United States,No,No,,More than 1000,Yes,Yes,Don't know,Not sure,Don't know,Don't know,Don't know,Don't know,1.0,"$19,485,394,000,000",$19.485 trillion,2.27%,325084756.0,"$59,939",24.08%
+37,Male,United States,Yes,No,,500-1000,No,No,Yes,Yes,No,No,Yes,Very easy,1.0,"$19,485,394,000,000",$19.485 trillion,2.27%,325084756.0,"$59,939",24.08%
+31,Male,United States,No,No,,26-100,No,Yes,Yes,No,Yes,No,Yes,Somewhat easy,1.0,"$19,485,394,000,000",$19.485 trillion,2.27%,325084756.0,"$59,939",24.08%
+23,Female,United Kingdom,Yes,No,Never,More than 1000,No,No,No,No,No,Yes,Don't know,Somewhat easy,6.0,"$2,637,866,340,434",$2.638 trillion,1.79%,66727461.0,"$39,532",3.26%
+29,Male,United States,Yes,Yes,Sometimes,26-100,No,Yes,Don't know,Not sure,Don't know,Don't know,Don't know,Don't know,1.0,"$19,485,394,000,000",$19.485 trillion,2.27%,325084756.0,"$59,939",24.08%
+37,Male,United States,No,No,Never,500-1000,Yes,Yes,Yes,No,Yes,Don't know,Don't know,Don't know,1.0,"$19,485,394,000,000",$19.485 trillion,2.27%,325084756.0,"$59,939",24.08%
+35,Male,United States,Yes,Yes,Sometimes,26-100,Yes,Yes,Yes,Yes,No,Don't know,Don't know,Don't know,1.0,"$19,485,394,000,000",$19.485 trillion,2.27%,325084756.0,"$59,939",24.08%
+31,Male,United Kingdom,No,Yes,Rarely,6-25,No,Yes,Don't know,Not sure,No,No,Don't know,Don't know,6.0,"$2,637,866,340,434",$2.638 trillion,1.79%,66727461.0,"$39,532",3.26%
+39,Male,United States,Yes,No,Sometimes,More than 1000,No,Yes,Yes,No,Yes,Yes,Don't know,Don't know,1.0,"$19,485,394,000,000",$19.485 trillion,2.27%,325084756.0,"$59,939",24.08%
+32,Male,United States,Yes,Yes,Rarely,1-5,Yes,Yes,No,Yes,No,No,Don't know,Very difficult,1.0,"$19,485,394,000,000",$19.485 trillion,2.27%,325084756.0,"$59,939",24.08%
+30,Male,United States,Yes,No,Never,100-500,No,Yes,Yes,No,Don't know,Yes,Don't know,Very difficult,1.0,"$19,485,394,000,000",$19.485 trillion,2.27%,325084756.0,"$59,939",24.08%
+33,Male,United States,No,No,Never,More than 1000,No,Yes,Yes,Yes,Yes,Yes,Yes,Somewhat easy,1.0,"$19,485,394,000,000",$19.485 trillion,2.27%,325084756.0,"$59,939",24.08%
+50,Male,United States,No,No,Never,1-5,Yes,Yes,No,Yes,No,No,Yes,Somewhat easy,1.0,"$19,485,394,000,000",$19.485 trillion,2.27%,325084756.0,"$59,939",24.08%
+24,Male,United States,No,No,Sometimes,26-100,Yes,Yes,Don't know,No,No,Don't know,Don't know,Somewhat easy,1.0,"$19,485,394,000,000",$19.485 trillion,2.27%,325084756.0,"$59,939",24.08%
+25,Male,United States,Yes,Yes,Rarely,26-100,No,No,No,No,No,No,Don't know,Don't know,1.0,"$19,485,394,000,000",$19.485 trillion,2.27%,325084756.0,"$59,939",24.08%
+43,Male,United Kingdom,Yes,Yes,Rarely,26-100,No,Yes,No,No,No,No,Don't know,Very difficult,6.0,"$2,637,866,340,434",$2.638 trillion,1.79%,66727461.0,"$39,532",3.26%
+24,Male,United Kingdom,No,No,,1-5,Yes,Yes,No,Yes,No,No,Yes,Very easy,6.0,"$2,637,866,340,434",$2.638 trillion,1.79%,66727461.0,"$39,532",3.26%
+49,Male,United States,Yes,Yes,Sometimes,More than 1000,No,Yes,Yes,Yes,No,Yes,Yes,Somewhat difficult,1.0,"$19,485,394,000,000",$19.485 trillion,2.27%,325084756.0,"$59,939",24.08%
+30,Male,United States,No,No,,More than 1000,Yes,Yes,Yes,No,Yes,Yes,Don't know,Don't know,1.0,"$19,485,394,000,000",$19.485 trillion,2.27%,325084756.0,"$59,939",24.08%
+36,Male,United States,No,Yes,Rarely,500-1000,Yes,Yes,Yes,Yes,Don't know,Don't know,Don't know,Don't know,1.0,"$19,485,394,000,000",$19.485 trillion,2.27%,325084756.0,"$59,939",24.08%
+48,Male,United States,No,Yes,Never,More than 1000,No,Yes,Yes,Yes,Yes,Yes,Yes,Don't know,1.0,"$19,485,394,000,000",$19.485 trillion,2.27%,325084756.0,"$59,939",24.08%
+53,Male,United States,No,Yes,Rarely,6-25,Yes,Yes,Yes,Yes,No,Yes,Don't know,Don't know,1.0,"$19,485,394,000,000",$19.485 trillion,2.27%,325084756.0,"$59,939",24.08%
+24,Female,United Kingdom,Yes,Yes,Often,6-25,Yes,Yes,No,No,No,No,Don't know,Very easy,6.0,"$2,637,866,340,434",$2.638 trillion,1.79%,66727461.0,"$39,532",3.26%
+33,Male,United States,Yes,Yes,Sometimes,26-100,No,Yes,Don't know,Yes,No,Yes,Don't know,Somewhat easy,1.0,"$19,485,394,000,000",$19.485 trillion,2.27%,325084756.0,"$59,939",24.08%
+25,Female,Canada,Yes,Yes,Sometimes,6-25,No,Yes,Yes,Yes,No,No,Yes,Somewhat easy,10.0,"$1,647,120,175,449",$1.647 trillion,3.05%,36732095.0,"$44,841",2.04%
+30,Male,United Kingdom,No,Yes,Sometimes,26-100,No,Yes,No,No,No,No,Don't know,Somewhat difficult,6.0,"$2,637,866,340,434",$2.638 trillion,1.79%,66727461.0,"$39,532",3.26%
+30,Male,United States,No,No,Never,1-5,Yes,Yes,No,Yes,No,No,Yes,Somewhat easy,1.0,"$19,485,394,000,000",$19.485 trillion,2.27%,325084756.0,"$59,939",24.08%
+31,Male,United States,No,No,,More than 1000,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Very easy,1.0,"$19,485,394,000,000",$19.485 trillion,2.27%,325084756.0,"$59,939",24.08%
+28,Male,United States,Yes,No,Sometimes,6-25,No,Yes,Don't know,Not sure,No,Don't know,Don't know,Somewhat easy,1.0,"$19,485,394,000,000",$19.485 trillion,2.27%,325084756.0,"$59,939",24.08%
+35,Male,United States,Yes,Yes,Rarely,26-100,No,No,Yes,Yes,No,Yes,Yes,Somewhat difficult,1.0,"$19,485,394,000,000",$19.485 trillion,2.27%,325084756.0,"$59,939",24.08%
+28,Male,United States,Yes,Yes,Sometimes,26-100,No,No,Yes,No,No,No,Don't know,Don't know,1.0,"$19,485,394,000,000",$19.485 trillion,2.27%,325084756.0,"$59,939",24.08%
+33,Male,United States,Yes,No,,500-1000,No,Yes,Yes,No,Don't know,Don't know,Don't know,Very easy,1.0,"$19,485,394,000,000",$19.485 trillion,2.27%,325084756.0,"$59,939",24.08%
+29,Male,United States,No,No,,26-100,No,Yes,Yes,Yes,Yes,Yes,Don't know,Somewhat easy,1.0,"$19,485,394,000,000",$19.485 trillion,2.27%,325084756.0,"$59,939",24.08%
+25,Male,United States,No,No,,100-500,Yes,Yes,Yes,No,No,No,Yes,Don't know,1.0,"$19,485,394,000,000",$19.485 trillion,2.27%,325084756.0,"$59,939",24.08%
+31,Male,United States,Yes,No,Never,100-500,No,Yes,Don't know,No,Don't know,Don't know,Don't know,Very easy,1.0,"$19,485,394,000,000",$19.485 trillion,2.27%,325084756.0,"$59,939",24.08%
+35,Female,United States,Yes,Yes,Sometimes,6-25,No,No,Yes,Not sure,Yes,Yes,Yes,Somewhat difficult,1.0,"$19,485,394,000,000",$19.485 trillion,2.27%,325084756.0,"$59,939",24.08%
+38,Male,United States,Yes,Yes,Sometimes,100-500,No,Yes,No,Not sure,No,No,Don't know,Very difficult,1.0,"$19,485,394,000,000",$19.485 trillion,2.27%,325084756.0,"$59,939",24.08%
+26,Male,United States,Yes,Yes,Sometimes,More than 1000,No,Yes,Don't know,Not sure,No,Yes,Yes,Very difficult,1.0,"$19,485,394,000,000",$19.485 trillion,2.27%,325084756.0,"$59,939",24.08%
+38,Male,United Kingdom,Yes,Yes,Rarely,1-5,Yes,No,No,No,No,No,Yes,Very difficult,6.0,"$2,637,866,340,434",$2.638 trillion,1.79%,66727461.0,"$39,532",3.26%
+42,Male,United States,No,Yes,Often,6-25,No,Yes,Don't know,No,No,Don't know,Don't know,Don't know,1.0,"$19,485,394,000,000",$19.485 trillion,2.27%,325084756.0,"$59,939",24.08%
+33,Male,Netherlands,Yes,Yes,,6-25,No,Yes,Don't know,No,No,Don't know,Don't know,Don't know,18.0,"$830,572,618,850",$831 billion,3.16%,17021347.0,"$48,796",1.03%
+32,Male,United States,No,Yes,Rarely,More than 1000,No,Yes,Yes,Yes,Yes,Yes,Yes,Somewhat easy,1.0,"$19,485,394,000,000",$19.485 trillion,2.27%,325084756.0,"$59,939",24.08%
+28,Male,United States,Yes,Yes,Rarely,More than 1000,No,Yes,Yes,Yes,Don't know,Don't know,Don't know,Don't know,1.0,"$19,485,394,000,000",$19.485 trillion,2.27%,325084756.0,"$59,939",24.08%
+40,Male,United States,Yes,Yes,Sometimes,More than 1000,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Very difficult,1.0,"$19,485,394,000,000",$19.485 trillion,2.27%,325084756.0,"$59,939",24.08%
+28,Male,United States,Yes,Yes,Sometimes,More than 1000,No,Yes,Don't know,No,Don't know,Don't know,Don't know,Somewhat easy,1.0,"$19,485,394,000,000",$19.485 trillion,2.27%,325084756.0,"$59,939",24.08%
+39,Male,United States,Yes,Yes,Often,26-100,No,Yes,Yes,Yes,No,No,Yes,Don't know,1.0,"$19,485,394,000,000",$19.485 trillion,2.27%,325084756.0,"$59,939",24.08%
+45,Male,United States,No,No,,More than 1000,No,No,Yes,Yes,Yes,Yes,Don't know,Don't know,1.0,"$19,485,394,000,000",$19.485 trillion,2.27%,325084756.0,"$59,939",24.08%
+43,Male,United States,No,Yes,Rarely,More than 1000,No,Yes,Yes,Yes,Yes,Yes,Don't know,Somewhat easy,1.0,"$19,485,394,000,000",$19.485 trillion,2.27%,325084756.0,"$59,939",24.08%
+35,Male,United States,No,Yes,Sometimes,More than 1000,No,Yes,Yes,Yes,Don't know,Yes,Don't know,Very difficult,1.0,"$19,485,394,000,000",$19.485 trillion,2.27%,325084756.0,"$59,939",24.08%
+40,Male,United States,Yes,Yes,Sometimes,6-25,No,Yes,Yes,Yes,Don't know,Don't know,Yes,Very easy,1.0,"$19,485,394,000,000",$19.485 trillion,2.27%,325084756.0,"$59,939",24.08%
+34,Male,Netherlands,No,Yes,Rarely,26-100,No,Yes,No,Yes,No,No,Yes,Very easy,18.0,"$830,572,618,850",$831 billion,3.16%,17021347.0,"$48,796",1.03%
+24,Male,United Kingdom,Yes,Yes,Often,26-100,No,No,Don't know,Yes,No,No,No,Somewhat easy,6.0,"$2,637,866,340,434",$2.638 trillion,1.79%,66727461.0,"$39,532",3.26%
+38,Male,United States,No,No,,6-25,No,Yes,No,No,No,No,Yes,Don't know,1.0,"$19,485,394,000,000",$19.485 trillion,2.27%,325084756.0,"$59,939",24.08%
+26,Male,United States,No,Yes,Rarely,More than 1000,No,Yes,Yes,Not sure,Don't know,Don't know,Don't know,Don't know,1.0,"$19,485,394,000,000",$19.485 trillion,2.27%,325084756.0,"$59,939",24.08%
+32,Male,United Kingdom,No,No,,6-25,No,Yes,Don't know,No,No,No,Don't know,Very easy,6.0,"$2,637,866,340,434",$2.638 trillion,1.79%,66727461.0,"$39,532",3.26%
+33,Male,United Kingdom,Yes,Yes,Sometimes,1-5,Yes,Yes,No,Yes,No,No,No,Very difficult,6.0,"$2,637,866,340,434",$2.638 trillion,1.79%,66727461.0,"$39,532",3.26%
+26,Female,United Kingdom,Yes,Yes,Sometimes,1-5,Yes,Yes,No,No,No,No,Don't know,Very easy,6.0,"$2,637,866,340,434",$2.638 trillion,1.79%,66727461.0,"$39,532",3.26%
+25,Male,United Kingdom,No,No,Never,6-25,Yes,Yes,Don't know,Not sure,Don't know,Don't know,Don't know,Very easy,6.0,"$2,637,866,340,434",$2.638 trillion,1.79%,66727461.0,"$39,532",3.26%
+45,Male,United Kingdom,Yes,No,Rarely,100-500,No,No,Don't know,No,No,No,Don't know,Don't know,6.0,"$2,637,866,340,434",$2.638 trillion,1.79%,66727461.0,"$39,532",3.26%
+43,Male,United States,No,No,Sometimes,More than 1000,Yes,Yes,No,Not sure,No,No,Don't know,Very difficult,1.0,"$19,485,394,000,000",$19.485 trillion,2.27%,325084756.0,"$59,939",24.08%
+30,Male,United Kingdom,No,Yes,Sometimes,6-25,No,Yes,No,Yes,No,No,No,Very difficult,6.0,"$2,637,866,340,434",$2.638 trillion,1.79%,66727461.0,"$39,532",3.26%
+40,Male,United States,Yes,Yes,Rarely,6-25,No,Yes,Don't know,Not sure,No,Don't know,Don't know,Don't know,1.0,"$19,485,394,000,000",$19.485 trillion,2.27%,325084756.0,"$59,939",24.08%
+49,Male,United States,Yes,No,Never,More than 1000,No,Yes,Yes,Yes,Yes,Yes,Yes,Don't know,1.0,"$19,485,394,000,000",$19.485 trillion,2.27%,325084756.0,"$59,939",24.08%
+29,Male,Germany,No,No,,6-25,No,Yes,Don't know,Not sure,No,No,Don't know,Somewhat easy,4.0,"$3,693,204,332,230",$3.693 trillion,2.22%,82658409.0,"$44,680",4.56%
+28,Male,United Kingdom,Yes,Yes,Often,26-100,No,Yes,No,No,No,No,Don't know,Somewhat easy,6.0,"$2,637,866,340,434",$2.638 trillion,1.79%,66727461.0,"$39,532",3.26%
+40,Male,United States,Yes,Yes,Sometimes,1-5,Yes,Yes,No,No,No,No,Don't know,Don't know,1.0,"$19,485,394,000,000",$19.485 trillion,2.27%,325084756.0,"$59,939",24.08%
+37,Female,Canada,Yes,Yes,Rarely,1-5,Yes,Yes,No,Yes,No,No,Yes,Somewhat easy,10.0,"$1,647,120,175,449",$1.647 trillion,3.05%,36732095.0,"$44,841",2.04%
+27,Male,Canada,No,No,Never,26-100,No,Yes,Yes,Not sure,Yes,No,Yes,Very easy,10.0,"$1,647,120,175,449",$1.647 trillion,3.05%,36732095.0,"$44,841",2.04%
+29,Male,United Kingdom,No,Yes,Sometimes,6-25,Yes,Yes,No,No,No,No,Don't know,Very easy,6.0,"$2,637,866,340,434",$2.638 trillion,1.79%,66727461.0,"$39,532",3.26%
+39,Female,United Kingdom,Yes,No,Rarely,500-1000,Yes,Yes,Don't know,Not sure,No,No,Don't know,Somewhat difficult,6.0,"$2,637,866,340,434",$2.638 trillion,1.79%,66727461.0,"$39,532",3.26%
+23,Male,United States,Yes,No,Sometimes,26-100,No,Yes,Yes,Not sure,Yes,Yes,Yes,Somewhat easy,1.0,"$19,485,394,000,000",$19.485 trillion,2.27%,325084756.0,"$59,939",24.08%
+38,Male,United Kingdom,No,No,,1-5,Yes,Yes,No,No,No,No,Yes,Somewhat easy,6.0,"$2,637,866,340,434",$2.638 trillion,1.79%,66727461.0,"$39,532",3.26%
+19,Male,United Kingdom,No,No,,6-25,No,Yes,Yes,No,No,Yes,Don't know,Very easy,6.0,"$2,637,866,340,434",$2.638 trillion,1.79%,66727461.0,"$39,532",3.26%
+30,Female,United States,Yes,Yes,Sometimes,26-100,No,Yes,Yes,Yes,Yes,Don't know,Yes,Very easy,1.0,"$19,485,394,000,000",$19.485 trillion,2.27%,325084756.0,"$59,939",24.08%
+35,Male,United Kingdom,No,No,Sometimes,1-5,No,Yes,Don't know,Not sure,No,Don't know,Don't know,Somewhat easy,6.0,"$2,637,866,340,434",$2.638 trillion,1.79%,66727461.0,"$39,532",3.26%
+31,Female,United States,Yes,No,Never,More than 1000,No,No,Yes,Not sure,No,Don't know,Don't know,Don't know,1.0,"$19,485,394,000,000",$19.485 trillion,2.27%,325084756.0,"$59,939",24.08%
+32,Male,United Kingdom,No,No,Rarely,500-1000,No,Yes,No,No,No,No,Don't know,Don't know,6.0,"$2,637,866,340,434",$2.638 trillion,1.79%,66727461.0,"$39,532",3.26%
+25,Male,United States,Yes,Yes,Often,6-25,Yes,Yes,Yes,Yes,No,Don't know,Yes,Somewhat easy,1.0,"$19,485,394,000,000",$19.485 trillion,2.27%,325084756.0,"$59,939",24.08%
+35,Male,United Kingdom,Yes,Yes,Sometimes,1-5,No,Yes,No,Yes,No,No,Yes,Very easy,6.0,"$2,637,866,340,434",$2.638 trillion,1.79%,66727461.0,"$39,532",3.26%
+34,Male,United Kingdom,No,No,Never,500-1000,No,Yes,Don't know,No,No,Don't know,Don't know,Very easy,6.0,"$2,637,866,340,434",$2.638 trillion,1.79%,66727461.0,"$39,532",3.26%
+24,Female,United States,Yes,No,Sometimes,More than 1000,No,No,Yes,Yes,No,Don't know,Don't know,Somewhat difficult,1.0,"$19,485,394,000,000",$19.485 trillion,2.27%,325084756.0,"$59,939",24.08%
+38,Female,United States,Yes,No,Sometimes,26-100,Yes,Yes,Don't know,Not sure,Don't know,Don't know,Don't know,Don't know,1.0,"$19,485,394,000,000",$19.485 trillion,2.27%,325084756.0,"$59,939",24.08%
+30,Male,United States,Yes,Yes,Sometimes,26-100,Yes,Yes,Yes,No,No,No,Don't know,Don't know,1.0,"$19,485,394,000,000",$19.485 trillion,2.27%,325084756.0,"$59,939",24.08%
+25,Male,United States,No,No,Rarely,26-100,Yes,Yes,Don't know,No,No,No,Don't know,Somewhat easy,1.0,"$19,485,394,000,000",$19.485 trillion,2.27%,325084756.0,"$59,939",24.08%
+30,Female,United States,Yes,Yes,Sometimes,500-1000,No,No,Yes,Yes,Yes,Yes,Yes,Somewhat easy,1.0,"$19,485,394,000,000",$19.485 trillion,2.27%,325084756.0,"$59,939",24.08%
+32,Male,United Kingdom,No,No,,6-25,No,Yes,No,No,No,No,Don't know,Don't know,6.0,"$2,637,866,340,434",$2.638 trillion,1.79%,66727461.0,"$39,532",3.26%
+37,Male,United States,Yes,No,Sometimes,26-100,Yes,Yes,Don't know,No,No,No,Don't know,Somewhat easy,1.0,"$19,485,394,000,000",$19.485 trillion,2.27%,325084756.0,"$59,939",24.08%
+19,Male,United States,No,No,Sometimes,1-5,No,Yes,Don't know,Not sure,No,No,Don't know,Don't know,1.0,"$19,485,394,000,000",$19.485 trillion,2.27%,325084756.0,"$59,939",24.08%
+34,Male,United States,No,No,,More than 1000,No,No,Yes,Not sure,Yes,Don't know,Don't know,Don't know,1.0,"$19,485,394,000,000",$19.485 trillion,2.27%,325084756.0,"$59,939",24.08%
+26,Male,United States,Yes,No,,6-25,No,Yes,Don't know,Not sure,No,No,Don't know,Don't know,1.0,"$19,485,394,000,000",$19.485 trillion,2.27%,325084756.0,"$59,939",24.08%
+31,Male,United States,Yes,Yes,Rarely,6-25,No,Yes,Don't know,Not sure,Don't know,Don't know,Yes,Don't know,1.0,"$19,485,394,000,000",$19.485 trillion,2.27%,325084756.0,"$59,939",24.08%
+40,Male,United States,Yes,No,Sometimes,More than 1000,Yes,No,Yes,Not sure,Yes,Don't know,Don't know,Don't know,1.0,"$19,485,394,000,000",$19.485 trillion,2.27%,325084756.0,"$59,939",24.08%
+31,Female,United States,Yes,Yes,Often,26-100,No,Yes,No,No,No,No,No,Very difficult,1.0,"$19,485,394,000,000",$19.485 trillion,2.27%,325084756.0,"$59,939",24.08%
+35,Male,Canada,Yes,No,Sometimes,6-25,Yes,Yes,No,Yes,No,No,Don't know,Don't know,10.0,"$1,647,120,175,449",$1.647 trillion,3.05%,36732095.0,"$44,841",2.04%
+34,Female,United States,No,No,Sometimes,1-5,No,Yes,No,Not sure,No,No,Don't know,Very easy,1.0,"$19,485,394,000,000",$19.485 trillion,2.27%,325084756.0,"$59,939",24.08%
+35,Male,United States,No,No,,6-25,Yes,Yes,No,No,No,No,Don't know,Don't know,1.0,"$19,485,394,000,000",$19.485 trillion,2.27%,325084756.0,"$59,939",24.08%
+33,Male,United States,No,No,,6-25,Yes,Yes,Yes,No,Don't know,Yes,Yes,Don't know,1.0,"$19,485,394,000,000",$19.485 trillion,2.27%,325084756.0,"$59,939",24.08%
+26,Male,United States,No,Yes,Sometimes,6-25,No,Yes,Yes,Yes,No,No,Yes,Don't know,1.0,"$19,485,394,000,000",$19.485 trillion,2.27%,325084756.0,"$59,939",24.08%
+26,Female,Canada,Yes,Yes,Sometimes,100-500,No,Yes,Yes,Not sure,No,No,Yes,Don't know,10.0,"$1,647,120,175,449",$1.647 trillion,3.05%,36732095.0,"$44,841",2.04%
+41,Male,United States,No,Yes,Often,1-5,Yes,No,No,Yes,Yes,Yes,Yes,Very difficult,1.0,"$19,485,394,000,000",$19.485 trillion,2.27%,325084756.0,"$59,939",24.08%
+39,Male,United Kingdom,Yes,Yes,Sometimes,1-5,Yes,Yes,No,Yes,Yes,Yes,Yes,Somewhat difficult,6.0,"$2,637,866,340,434",$2.638 trillion,1.79%,66727461.0,"$39,532",3.26%
+23,Female,United States,Yes,No,Sometimes,26-100,No,No,No,No,No,No,Don't know,Somewhat difficult,1.0,"$19,485,394,000,000",$19.485 trillion,2.27%,325084756.0,"$59,939",24.08%
+36,Male,United States,No,No,Never,1-5,Yes,Yes,Don't know,Not sure,Don't know,Don't know,Don't know,Very easy,1.0,"$19,485,394,000,000",$19.485 trillion,2.27%,325084756.0,"$59,939",24.08%
+39,Male,United States,Yes,Yes,Sometimes,500-1000,No,Yes,Yes,Yes,No,Don't know,Yes,Very easy,1.0,"$19,485,394,000,000",$19.485 trillion,2.27%,325084756.0,"$59,939",24.08%
+27,Male,United States,No,No,Never,6-25,No,Yes,Don't know,No,No,Don't know,Don't know,Don't know,1.0,"$19,485,394,000,000",$19.485 trillion,2.27%,325084756.0,"$59,939",24.08%
+28,Female,United States,No,Yes,Rarely,6-25,No,Yes,Yes,Yes,Don't know,Yes,Yes,Very easy,1.0,"$19,485,394,000,000",$19.485 trillion,2.27%,325084756.0,"$59,939",24.08%
+29,Female,United States,No,Yes,Often,More than 1000,Yes,No,Yes,No,No,No,Don't know,Somewhat easy,1.0,"$19,485,394,000,000",$19.485 trillion,2.27%,325084756.0,"$59,939",24.08%
+27,Male,United States,No,Yes,Sometimes,100-500,No,Yes,Don't know,Not sure,No,No,Yes,Very difficult,1.0,"$19,485,394,000,000",$19.485 trillion,2.27%,325084756.0,"$59,939",24.08%
+25,Male,United States,No,Yes,Often,6-25,Yes,Yes,Don't know,No,No,No,Don't know,Somewhat easy,1.0,"$19,485,394,000,000",$19.485 trillion,2.27%,325084756.0,"$59,939",24.08%
+26,Male,United States,No,No,Never,More than 1000,No,No,Yes,Yes,No,Don't know,Don't know,Somewhat difficult,1.0,"$19,485,394,000,000",$19.485 trillion,2.27%,325084756.0,"$59,939",24.08%
+48,Male,United States,No,No,Never,26-100,No,No,Yes,Yes,Yes,Yes,Yes,Don't know,1.0,"$19,485,394,000,000",$19.485 trillion,2.27%,325084756.0,"$59,939",24.08%
+39,Female,United States,No,Yes,Sometimes,6-25,Yes,Yes,No,No,No,No,Don't know,Don't know,1.0,"$19,485,394,000,000",$19.485 trillion,2.27%,325084756.0,"$59,939",24.08%
+43,Male,United States,No,No,Sometimes,More than 1000,Yes,Yes,Yes,Not sure,No,Yes,Don't know,Don't know,1.0,"$19,485,394,000,000",$19.485 trillion,2.27%,325084756.0,"$59,939",24.08%
+25,Male,United States,No,No,Never,More than 1000,No,No,Don't know,No,No,No,Don't know,Don't know,1.0,"$19,485,394,000,000",$19.485 trillion,2.27%,325084756.0,"$59,939",24.08%
+40,Male,United States,Yes,Yes,Sometimes,More than 1000,No,Yes,Yes,Yes,Yes,Yes,Yes,Don't know,1.0,"$19,485,394,000,000",$19.485 trillion,2.27%,325084756.0,"$59,939",24.08%
+43,Male,United States,Yes,Yes,Sometimes,1-5,Yes,Yes,Yes,Not sure,No,Don't know,Don't know,Don't know,1.0,"$19,485,394,000,000",$19.485 trillion,2.27%,325084756.0,"$59,939",24.08%
+27,Female,United States,Yes,Yes,Often,More than 1000,No,Yes,Yes,Yes,Yes,Yes,Yes,Very difficult,1.0,"$19,485,394,000,000",$19.485 trillion,2.27%,325084756.0,"$59,939",24.08%
+25,Male,United States,Yes,Yes,Often,1-5,No,Yes,No,Yes,No,No,Yes,Very easy,1.0,"$19,485,394,000,000",$19.485 trillion,2.27%,325084756.0,"$59,939",24.08%
+29,Male,Netherlands,Yes,Yes,Often,1-5,No,Yes,Don't know,Not sure,Don't know,Yes,Don't know,Very difficult,18.0,"$830,572,618,850",$831 billion,3.16%,17021347.0,"$48,796",1.03%
+30,Female,United States,Yes,Yes,Often,More than 1000,No,No,Yes,No,No,No,Don't know,Somewhat difficult,1.0,"$19,485,394,000,000",$19.485 trillion,2.27%,325084756.0,"$59,939",24.08%
+32,Male,United States,No,Yes,Sometimes,26-100,No,Yes,Yes,Yes,Yes,Don't know,Yes,Don't know,1.0,"$19,485,394,000,000",$19.485 trillion,2.27%,325084756.0,"$59,939",24.08%
+28,Female,United States,Yes,Yes,Sometimes,100-500,No,Yes,Yes,Yes,Don't know,Don't know,Don't know,Don't know,1.0,"$19,485,394,000,000",$19.485 trillion,2.27%,325084756.0,"$59,939",24.08%
+32,Male,United States,Yes,Yes,Often,100-500,No,Yes,No,Yes,No,No,Don't know,Very difficult,1.0,"$19,485,394,000,000",$19.485 trillion,2.27%,325084756.0,"$59,939",24.08%
+37,Male,United States,No,Yes,Sometimes,100-500,No,Yes,Yes,No,No,Yes,Yes,Very easy,1.0,"$19,485,394,000,000",$19.485 trillion,2.27%,325084756.0,"$59,939",24.08%
+24,Male,United States,Yes,Yes,Rarely,6-25,Yes,Yes,Don't know,No,No,No,Don't know,Very easy,1.0,"$19,485,394,000,000",$19.485 trillion,2.27%,325084756.0,"$59,939",24.08%
+29,Male,United States,No,No,,More than 1000,No,No,Don't know,Not sure,Yes,Don't know,Yes,Somewhat easy,1.0,"$19,485,394,000,000",$19.485 trillion,2.27%,325084756.0,"$59,939",24.08%
+43,Male,United States,No,No,Never,500-1000,No,Yes,Don't know,No,No,Don't know,Don't know,Don't know,1.0,"$19,485,394,000,000",$19.485 trillion,2.27%,325084756.0,"$59,939",24.08%
+29,Male,United States,No,No,,6-25,Yes,Yes,Yes,Not sure,No,Yes,Don't know,Don't know,1.0,"$19,485,394,000,000",$19.485 trillion,2.27%,325084756.0,"$59,939",24.08%
+26,Male,United States,Yes,No,Sometimes,100-500,No,Yes,Don't know,Not sure,No,No,Don't know,Don't know,1.0,"$19,485,394,000,000",$19.485 trillion,2.27%,325084756.0,"$59,939",24.08%
+33,Female,Canada,Yes,Yes,Often,1-5,Yes,Yes,No,Yes,No,No,No,Very difficult,10.0,"$1,647,120,175,449",$1.647 trillion,3.05%,36732095.0,"$44,841",2.04%
+35,Female,United States,Yes,No,Sometimes,6-25,Yes,Yes,Don't know,No,No,No,Don't know,Somewhat easy,1.0,"$19,485,394,000,000",$19.485 trillion,2.27%,325084756.0,"$59,939",24.08%
+25,Male,United States,No,Yes,Rarely,6-25,Yes,Yes,No,Yes,No,Don't know,Don't know,Somewhat easy,1.0,"$19,485,394,000,000",$19.485 trillion,2.27%,325084756.0,"$59,939",24.08%
+25,Male,United States,Yes,Yes,Sometimes,1-5,Yes,Yes,Don't know,No,Don't know,Don't know,Don't know,Very easy,1.0,"$19,485,394,000,000",$19.485 trillion,2.27%,325084756.0,"$59,939",24.08%
+24,Male,Canada,No,No,Sometimes,26-100,No,Yes,Yes,Yes,No,No,Yes,Don't know,10.0,"$1,647,120,175,449",$1.647 trillion,3.05%,36732095.0,"$44,841",2.04%
+40,Male,United Kingdom,No,Yes,Never,100-500,No,Yes,Don't know,Not sure,No,Don't know,Don't know,Very easy,6.0,"$2,637,866,340,434",$2.638 trillion,1.79%,66727461.0,"$39,532",3.26%
+46,Male,United States,Yes,Yes,Sometimes,6-25,No,Yes,Don't know,Yes,No,Don't know,Don't know,Don't know,1.0,"$19,485,394,000,000",$19.485 trillion,2.27%,325084756.0,"$59,939",24.08%
+38,Male,United States,Yes,Yes,Rarely,More than 1000,No,No,Yes,Yes,Yes,Yes,Yes,Somewhat easy,1.0,"$19,485,394,000,000",$19.485 trillion,2.27%,325084756.0,"$59,939",24.08%
+34,Male,United States,No,No,Never,1-5,Yes,Yes,No,Yes,No,No,Don't know,Don't know,1.0,"$19,485,394,000,000",$19.485 trillion,2.27%,325084756.0,"$59,939",24.08%
+32,Male,United Kingdom,No,Yes,Rarely,1-5,No,Yes,No,Yes,Yes,Yes,Yes,Very easy,6.0,"$2,637,866,340,434",$2.638 trillion,1.79%,66727461.0,"$39,532",3.26%
+44,Male,United Kingdom,No,Yes,Sometimes,More than 1000,No,No,No,No,No,Yes,Don't know,Don't know,6.0,"$2,637,866,340,434",$2.638 trillion,1.79%,66727461.0,"$39,532",3.26%
+33,Female,United Kingdom,No,Yes,Never,100-500,No,Yes,Don't know,Not sure,No,Don't know,Don't know,Very easy,6.0,"$2,637,866,340,434",$2.638 trillion,1.79%,66727461.0,"$39,532",3.26%
+35,Male,United States,No,No,,6-25,No,Yes,Don't know,Not sure,Don't know,Don't know,Yes,Don't know,1.0,"$19,485,394,000,000",$19.485 trillion,2.27%,325084756.0,"$59,939",24.08%
+26,Male,Germany,Yes,Yes,Often,1-5,No,Yes,No,No,No,No,Don't know,Don't know,4.0,"$3,693,204,332,230",$3.693 trillion,2.22%,82658409.0,"$44,680",4.56%
+37,Male,Netherlands,Yes,No,Sometimes,6-25,No,Yes,No,No,No,No,Yes,Somewhat easy,18.0,"$830,572,618,850",$831 billion,3.16%,17021347.0,"$48,796",1.03%
+27,Male,United Kingdom,No,Yes,Sometimes,More than 1000,No,No,No,No,No,No,Yes,Somewhat easy,6.0,"$2,637,866,340,434",$2.638 trillion,1.79%,66727461.0,"$39,532",3.26%
+25,Male,United Kingdom,Yes,Yes,Sometimes,26-100,Yes,Yes,No,No,No,No,Yes,Very easy,6.0,"$2,637,866,340,434",$2.638 trillion,1.79%,66727461.0,"$39,532",3.26%
+23,Male,Germany,Yes,Yes,Sometimes,6-25,No,Yes,Don't know,Not sure,No,No,Don't know,Somewhat easy,4.0,"$3,693,204,332,230",$3.693 trillion,2.22%,82658409.0,"$44,680",4.56%
+21,Male,United Kingdom,No,Yes,Sometimes,More than 1000,No,No,Don't know,No,No,Don't know,Don't know,Don't know,6.0,"$2,637,866,340,434",$2.638 trillion,1.79%,66727461.0,"$39,532",3.26%
+38,Male,United Kingdom,Yes,Yes,Sometimes,1-5,No,Yes,No,Not sure,Don't know,Don't know,Don't know,Very easy,6.0,"$2,637,866,340,434",$2.638 trillion,1.79%,66727461.0,"$39,532",3.26%
+32,Male,United States,No,Yes,Sometimes,More than 1000,No,Yes,Yes,Yes,Yes,Yes,Yes,Somewhat difficult,1.0,"$19,485,394,000,000",$19.485 trillion,2.27%,325084756.0,"$59,939",24.08%
+26,Male,United Kingdom,No,No,Never,6-25,No,Yes,No,No,No,No,Don't know,Don't know,6.0,"$2,637,866,340,434",$2.638 trillion,1.79%,66727461.0,"$39,532",3.26%
+38,Male,Canada,Yes,Yes,Rarely,100-500,No,Yes,Don't know,Not sure,No,Don't know,Don't know,Don't know,10.0,"$1,647,120,175,449",$1.647 trillion,3.05%,36732095.0,"$44,841",2.04%
+34,Female,United Kingdom,Yes,No,Rarely,26-100,No,No,Yes,Yes,Yes,Yes,Yes,Very easy,6.0,"$2,637,866,340,434",$2.638 trillion,1.79%,66727461.0,"$39,532",3.26%
+39,Male,United States,Yes,Yes,Often,26-100,No,No,Don't know,Not sure,No,No,Don't know,Somewhat easy,1.0,"$19,485,394,000,000",$19.485 trillion,2.27%,325084756.0,"$59,939",24.08%
+37,Male,Netherlands,No,No,Never,1-5,Yes,Yes,Don't know,Not sure,Don't know,Don't know,Don't know,Very easy,18.0,"$830,572,618,850",$831 billion,3.16%,17021347.0,"$48,796",1.03%
+31,Male,United Kingdom,No,No,Never,100-500,No,Yes,Yes,No,No,Yes,Don't know,Don't know,6.0,"$2,637,866,340,434",$2.638 trillion,1.79%,66727461.0,"$39,532",3.26%
+26,Male,United States,Yes,Yes,Sometimes,6-25,Yes,Yes,Don't know,No,No,Don't know,Don't know,Somewhat easy,1.0,"$19,485,394,000,000",$19.485 trillion,2.27%,325084756.0,"$59,939",24.08%
+46,Female,United States,No,Yes,Often,100-500,Yes,No,Yes,Yes,No,No,Yes,Don't know,1.0,"$19,485,394,000,000",$19.485 trillion,2.27%,325084756.0,"$59,939",24.08%
+32,Male,United States,Yes,No,Sometimes,More than 1000,No,Yes,Yes,No,Yes,Don't know,Don't know,Don't know,1.0,"$19,485,394,000,000",$19.485 trillion,2.27%,325084756.0,"$59,939",24.08%
+29,Male,United States,Yes,Yes,Sometimes,26-100,No,No,Yes,Yes,Yes,Yes,Don't know,Don't know,1.0,"$19,485,394,000,000",$19.485 trillion,2.27%,325084756.0,"$59,939",24.08%
+32,Female,United States,No,Yes,Sometimes,More than 1000,No,Yes,Yes,Yes,No,Don't know,Don't know,Don't know,1.0,"$19,485,394,000,000",$19.485 trillion,2.27%,325084756.0,"$59,939",24.08%
+29,Male,United States,No,No,,More than 1000,No,Yes,Don't know,Not sure,No,No,Don't know,Don't know,1.0,"$19,485,394,000,000",$19.485 trillion,2.27%,325084756.0,"$59,939",24.08%
+30,Male,United States,No,No,,More than 1000,No,No,Yes,No,Yes,Yes,Don't know,Don't know,1.0,"$19,485,394,000,000",$19.485 trillion,2.27%,325084756.0,"$59,939",24.08%
+23,Male,United Kingdom,No,Yes,Sometimes,1-5,No,Yes,No,No,No,No,Don't know,Very difficult,6.0,"$2,637,866,340,434",$2.638 trillion,1.79%,66727461.0,"$39,532",3.26%
+26,Female,United States,Yes,Yes,Rarely,100-500,No,Yes,Yes,No,No,No,Don't know,Don't know,1.0,"$19,485,394,000,000",$19.485 trillion,2.27%,325084756.0,"$59,939",24.08%
+29,Male,United States,No,No,Never,26-100,No,Yes,No,No,No,Don't know,Don't know,Don't know,1.0,"$19,485,394,000,000",$19.485 trillion,2.27%,325084756.0,"$59,939",24.08%
+72,Female,United States,Yes,Yes,Never,500-1000,Yes,No,Yes,Not sure,Don't know,Yes,Don't know,Somewhat easy,1.0,"$19,485,394,000,000",$19.485 trillion,2.27%,325084756.0,"$59,939",24.08%
+38,Male,United States,Yes,Yes,Sometimes,26-100,Yes,Yes,Yes,No,No,No,Don't know,Don't know,1.0,"$19,485,394,000,000",$19.485 trillion,2.27%,325084756.0,"$59,939",24.08%
+40,Male,United States,Yes,Yes,Sometimes,6-25,No,Yes,Yes,Yes,No,No,Yes,Don't know,1.0,"$19,485,394,000,000",$19.485 trillion,2.27%,325084756.0,"$59,939",24.08%
+34,Male,Canada,Yes,No,Sometimes,More than 1000,No,Yes,Yes,Not sure,Yes,Yes,Yes,Don't know,10.0,"$1,647,120,175,449",$1.647 trillion,3.05%,36732095.0,"$44,841",2.04%
+37,Male,United Kingdom,No,No,Never,26-100,Yes,Yes,Don't know,No,No,No,Don't know,Somewhat easy,6.0,"$2,637,866,340,434",$2.638 trillion,1.79%,66727461.0,"$39,532",3.26%
+35,Female,Ireland,No,No,Rarely,1-5,No,Yes,Don't know,No,No,No,No,Don't know,34.0,"$331,430,014,003",$331 billion,7.80%,4753279.0,"$69,727",0.41%
+32,Male,United States,No,Yes,Often,26-100,Yes,Yes,Yes,Not sure,No,Don't know,Don't know,Very difficult,1.0,"$19,485,394,000,000",$19.485 trillion,2.27%,325084756.0,"$59,939",24.08%
+28,Male,Australia,No,Yes,Often,100-500,Yes,Yes,No,Yes,No,No,Don't know,Don't know,13.0,"$1,323,421,072,479",$1.323 trillion,1.96%,24584620.0,"$53,831",1.64%
+28,Female,United States,No,Yes,Rarely,6-25,No,Yes,Yes,No,No,No,Don't know,Somewhat easy,1.0,"$19,485,394,000,000",$19.485 trillion,2.27%,325084756.0,"$59,939",24.08%
+24,Male,United Kingdom,No,No,,100-500,No,Yes,Don't know,Not sure,No,No,Don't know,Somewhat easy,6.0,"$2,637,866,340,434",$2.638 trillion,1.79%,66727461.0,"$39,532",3.26%
+34,Male,Ireland,Yes,Yes,Never,1-5,Yes,Yes,No,No,No,No,Don't know,Don't know,34.0,"$331,430,014,003",$331 billion,7.80%,4753279.0,"$69,727",0.41%
+34,Male,United Kingdom,Yes,No,Often,26-100,Yes,No,Don't know,Not sure,No,No,Don't know,Somewhat easy,6.0,"$2,637,866,340,434",$2.638 trillion,1.79%,66727461.0,"$39,532",3.26%
+23,Male,United States,No,Yes,Sometimes,1-5,No,Yes,No,Yes,No,No,No,Very easy,1.0,"$19,485,394,000,000",$19.485 trillion,2.27%,325084756.0,"$59,939",24.08%
+34,Female,United Kingdom,No,Yes,Sometimes,More than 1000,No,No,No,Yes,No,Yes,Yes,Somewhat difficult,6.0,"$2,637,866,340,434",$2.638 trillion,1.79%,66727461.0,"$39,532",3.26%
+33,Male,United States,No,Yes,Often,26-100,Yes,Yes,Yes,Yes,No,No,Yes,Don't know,1.0,"$19,485,394,000,000",$19.485 trillion,2.27%,325084756.0,"$59,939",24.08%
+27,Male,United Kingdom,No,No,Rarely,More than 1000,Yes,No,Don't know,Not sure,No,Yes,Don't know,Don't know,6.0,"$2,637,866,340,434",$2.638 trillion,1.79%,66727461.0,"$39,532",3.26%
+38,Male,United States,No,Yes,Sometimes,More than 1000,Yes,Yes,Yes,No,Yes,Yes,Yes,Very easy,1.0,"$19,485,394,000,000",$19.485 trillion,2.27%,325084756.0,"$59,939",24.08%
+46,Male,United States,Yes,Yes,Often,26-100,No,Yes,Don't know,No,No,No,Don't know,Don't know,1.0,"$19,485,394,000,000",$19.485 trillion,2.27%,325084756.0,"$59,939",24.08%
+39,Male,Netherlands,No,No,,More than 1000,No,No,Yes,Not sure,Yes,Don't know,Don't know,Somewhat easy,18.0,"$830,572,618,850",$831 billion,3.16%,17021347.0,"$48,796",1.03%
+32,Female,Ireland,Yes,No,Never,More than 1000,No,Yes,Yes,Yes,Don't know,Yes,Yes,Don't know,34.0,"$331,430,014,003",$331 billion,7.80%,4753279.0,"$69,727",0.41%
+25,Male,United States,Yes,Yes,Sometimes,26-100,No,Yes,Don't know,Yes,No,No,Don't know,Somewhat easy,1.0,"$19,485,394,000,000",$19.485 trillion,2.27%,325084756.0,"$59,939",24.08%
+23,Female,United Kingdom,Yes,Yes,Sometimes,6-25,No,Yes,No,Yes,No,Yes,Yes,Very easy,6.0,"$2,637,866,340,434",$2.638 trillion,1.79%,66727461.0,"$39,532",3.26%
+25,Male,United Kingdom,Yes,Yes,Sometimes,More than 1000,No,No,Yes,Yes,Yes,Yes,Yes,Very easy,6.0,"$2,637,866,340,434",$2.638 trillion,1.79%,66727461.0,"$39,532",3.26%
+23,Male,United Kingdom,No,Yes,Rarely,6-25,No,Yes,No,Yes,No,No,Don't know,Don't know,6.0,"$2,637,866,340,434",$2.638 trillion,1.79%,66727461.0,"$39,532",3.26%
+23,Male,Canada,No,Yes,Often,26-100,No,Yes,Yes,Yes,Yes,Don't know,Don't know,Don't know,10.0,"$1,647,120,175,449",$1.647 trillion,3.05%,36732095.0,"$44,841",2.04%
+60,Male,United States,No,Yes,Often,More than 1000,Yes,Yes,Don't know,No,Yes,Don't know,Don't know,Somewhat easy,1.0,"$19,485,394,000,000",$19.485 trillion,2.27%,325084756.0,"$59,939",24.08%
+28,Male,United States,Yes,Yes,Often,More than 1000,No,No,Yes,Yes,Yes,Yes,Yes,Somewhat easy,1.0,"$19,485,394,000,000",$19.485 trillion,2.27%,325084756.0,"$59,939",24.08%
+28,Male,Ireland,No,Yes,Rarely,26-100,No,Yes,Don't know,No,No,Don't know,Don't know,Don't know,34.0,"$331,430,014,003",$331 billion,7.80%,4753279.0,"$69,727",0.41%
+22,Male,Australia,Yes,Yes,Often,100-500,No,No,Yes,Yes,Yes,Yes,Yes,Don't know,13.0,"$1,323,421,072,479",$1.323 trillion,1.96%,24584620.0,"$53,831",1.64%
+32,Male,United States,No,No,Never,100-500,No,Yes,Yes,Not sure,Don't know,Yes,Don't know,Somewhat easy,1.0,"$19,485,394,000,000",$19.485 trillion,2.27%,325084756.0,"$59,939",24.08%
+41,Female,United States,Yes,Yes,Sometimes,26-100,No,Yes,Yes,No,No,Don't know,Don't know,Don't know,1.0,"$19,485,394,000,000",$19.485 trillion,2.27%,325084756.0,"$59,939",24.08%
+30,Male,United States,Yes,Yes,Often,26-100,No,Yes,Yes,Not sure,Yes,Yes,Don't know,Don't know,1.0,"$19,485,394,000,000",$19.485 trillion,2.27%,325084756.0,"$59,939",24.08%
+36,Male,United States,Yes,No,Rarely,More than 1000,No,No,Don't know,No,Yes,Yes,Don't know,Somewhat easy,1.0,"$19,485,394,000,000",$19.485 trillion,2.27%,325084756.0,"$59,939",24.08%
+32,Male,United States,Yes,Yes,Often,26-100,Yes,Yes,Yes,Yes,No,No,Yes,Somewhat difficult,1.0,"$19,485,394,000,000",$19.485 trillion,2.27%,325084756.0,"$59,939",24.08%
+25,Male,United States,Yes,Yes,Sometimes,26-100,No,No,Yes,Yes,No,No,Yes,Don't know,1.0,"$19,485,394,000,000",$19.485 trillion,2.27%,325084756.0,"$59,939",24.08%
